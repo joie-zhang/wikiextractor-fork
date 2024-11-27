@@ -87,13 +87,13 @@ def clean(extractor, text, expand_templates=False, html_safe=True):
         text = dropNested(text, r'{{', r'}}')
 
     # Drop tables
-    # text = dropNested(text, r'{\|', r'\|}')
+    text = dropNested(text, r'{\|', r'\|}')
 
     # replace external links
-    # text = replaceExternalLinks(text)
+    text = replaceExternalLinks(text)
 
     # replace internal links
-    # text = replaceInternalLinks(text)
+    text = replaceInternalLinks(text)
 
     # drop MagicWords behavioral switches
     text = magicWordsRE.sub('', text)
@@ -145,21 +145,6 @@ def clean(extractor, text, expand_templates=False, html_safe=True):
     # Bulk remove all spans
     text = dropSpans(spans, text)
 
-    # HY: get the table text here
-    from bs4 import BeautifulSoup
-    import pandas as pd
-    soup = BeautifulSoup(text, 'html.parser')
-
-    # HY: parse the tables and the links and save everything
-    try:
-        tabs = pd.read_html(text, extract_links="body")
-        tables = [t.to_json(orient="records") for t in tabs]
-
-    except Exception as e:
-        #logging.warn(e)
-        tables = None
-        pass
-
     # Drop discarded elements
     for tag in discardElements:
         text = dropNested(text, r'<\s*%s\b[^>/]*>' % tag, r'<\s*/\s*%s>' % tag)
@@ -189,7 +174,7 @@ def clean(extractor, text, expand_templates=False, html_safe=True):
     text = text.replace(',,', ',').replace(',.', '.')
     if html_safe:
         text = html.escape(text, quote=False)
-    return {"text": text, "tables": tables}
+    return text
 
 
 # skip level 1, it is page name level
@@ -394,14 +379,6 @@ wgUrlProtocols = [
 # \p{Zs} is unicode 'separator, space' category. It covers the space 0x20
 # as well as U+3000 is IDEOGRAPHIC SPACE for bug 19052
 EXT_LINK_URL_CLASS = r'[^][<>"\x00-\x20\x7F\s]'
-#ExtLinkBracketedRegex = re.compile(
-    #'\[(((?i)' + '|'.join(wgUrlProtocols) + ')' + EXT_LINK_URL_CLASS + r'+)\s*([^\]\x00-\x08\x0a-\x1F]*?)\]',
-    #re.S | re.U)
-#EXT_IMAGE_REGEX = re.compile(
-    #r"""^(http://|https://)([^][<>"\x00-\x20\x7F\s]+)
-    #/([A-Za-z0-9_.,~%\-+&;#*?!=()@\x80-\xFF]+)\.((?i)gif|png|jpg|jpeg)$""",
-    #re.X | re.S | re.U)
-
 ExtLinkBracketedRegex = re.compile(
     '(?i)\[((' + '|'.join(wgUrlProtocols) + ')' + EXT_LINK_URL_CLASS + r'+)\s*([^\]\x00-\x08\x0a-\x1F]*?)\]',
     re.S | re.U)
@@ -973,7 +950,7 @@ class Extractor():
           e.g. "## Section 1"
         """
         self.magicWords['namespace'] = self.title[:max(0, self.title.find(":"))]
-        #self.magicWords['namespacenumber'] = '0' # for article,
+        #self.magicWords['namespacenumber'] = '0' # for article, 
         self.magicWords['pagename'] = self.title
         self.magicWords['fullpagename'] = self.title
         self.magicWords['currentyear'] = time.strftime('%Y')
@@ -982,11 +959,11 @@ class Extractor():
         self.magicWords['currenthour'] = time.strftime('%H')
         self.magicWords['currenttime'] = time.strftime('%H:%M:%S')
 
-        output = clean(self, text, expand_templates=expand_templates,
+        text = clean(self, text, expand_templates=expand_templates,
                      html_safe=html_safe)
-        text = output['text']
+
         text = compact(text, mark_headers=mark_headers)
-        return {"text": text, "tables": output['tables']}
+        return text
 
     def extract(self, out, html_safe=True):
         """
@@ -995,23 +972,16 @@ class Extractor():
         """
         logging.debug("%s\t%s", self.id, self.title)
         text = ''.join(self.page)
-        logging.info("Extracted text:", text[:100])  # JZ: debugging
-        output = self.clean_text(text, html_safe=html_safe)
-        text = output['text']
+        text = self.clean_text(text, html_safe=html_safe)
 
         if self.to_json:
             json_data = {
-		        'id': self.id,
+		'id': self.id,
                 'revid': self.revid,
                 'url': self.url,
                 'title': self.title,
-                'text': "\n".join(text),
-                #"tables": output['tables'],
+                'text': "\n".join(text)
             }
-            #if output['tables'] is not None:
-                #for table in output["tables"]:
-                    #print(table)
-                    #json.dumps(table)
             out_str = json.dumps(json_data)
             out.write(out_str)
             out.write('\n')

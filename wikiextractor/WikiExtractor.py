@@ -43,8 +43,8 @@ Each file will contain several documents in the format:
         ...
         </doc>
 
-If the program is invoked with the --json flag, then each file will                                            
-contain several documents formatted as json ojects, one per line, with                                         
+If the program is invoked with the --json flag, then each file will
+contain several documents formatted as json ojects, one per line, with
 the following structure
 
     {"id": "", "revid": "", "url": "", "title": "", "text": "..."}
@@ -65,6 +65,7 @@ from timeit import default_timer
 
 from .extract import Extractor, ignoreTag, define_template, acceptedNamespaces
 
+from tqdm import tqdm
 # ===========================================================================
 
 # Program version
@@ -351,12 +352,15 @@ def process_dump(input_file, template_file, out_file, file_size, file_compress,
     global templateNamespace
     global moduleNamespace, modulePrefix
 
+
+    logging.info("Starting dump preprocessing")
+
     urlbase = ''                # This is obtained from <siteinfo>
 
     input = decode_open(input_file)
 
     # collect siteinfo
-    for line in input:
+    for line in tqdm(input):
         line = line #.decode('utf-8')
         m = tagRE.search(line)
         if not m:
@@ -377,8 +381,10 @@ def process_dump(input_file, template_file, out_file, file_size, file_compress,
                 modulePrefix = moduleNamespace + ':'
         elif tag == '/siteinfo':
             break
+    logging.info("Collected site info")
 
     if expand_templates:
+        logging.info("Loading templates...")
         # preprocess
         template_load_start = default_timer()
         if template_file and os.path.exists(template_file):
@@ -617,6 +623,7 @@ def main():
     # templateCache = manager.dict()
 
     if args.article:
+        logging.info("Article is set to true")
         if args.templates:
             if os.path.exists(args.templates):
                 with open(args.templates) as file:
@@ -636,6 +643,7 @@ def main():
             logging.error('Could not create: %s', output_path)
             return
 
+    logging.info("entering process_dump")
     process_dump(input_file, args.templates, output_path, file_size,
                  args.compress, args.processes, args.html_safe, not args.no_templates)
 

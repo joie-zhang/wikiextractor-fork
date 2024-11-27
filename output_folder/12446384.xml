@@ -1,0 +1,2987 @@
+  <page>
+    <title>List of brown dwarfs</title>
+    <ns>0</ns>
+    <id>12446384</id>
+    <revision>
+      <parentid>1244677385</parentid>
+      <timestamp>2024-09-08T16:05:44Z</timestamp>
+      <contributor>
+        <username>Citation bot</username>
+      </contributor>
+      <comment>Altered pages. Add: doi-access, pmid, issue, authors 1-1. Removed URL that duplicated identifier. Removed parameters. Some additions/deletions were parameter name changes. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by GoingBatty | [[Category:CS1 maint: unflagged free DOI]] | #UCB_Category 14/22</comment>
+      <origin>1244691281</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="111573" sha1="g5opearr0qz3ipd34ip5as68gc936wb" xml:space="preserve">{{Short description|none}}
+{{redirect-distinguish|List of lightest stars|List of brightest stars|List of most luminous stars}}
+{{Refimprove|date=August 2015}}
+{{List_dispute|date=August 2015|Unconstrained list}}
+
+This is a list of [[brown dwarf]]s. These are objects that have masses between heavy [[gas giant]]s and low-mass [[star]]s.&lt;ref name=&quot;Universetoday2013&quot;/&gt; The first isolated brown dwarf discovered was [[Teide 1]] in 1995.&lt;ref name=&quot;Rebolo2014&quot;/&gt; The first brown dwarf discovered orbiting a star was [[Gliese 229]] B, also discovered in 1995.&lt;ref name=&quot;STScI2013&quot;/&gt; The first brown dwarf found to have a planet was [[2M1207]], discovered in 2004.&lt;ref name=&quot;Mohanty2007&quot;/&gt; {{As of|2015}}, more than 2,800 brown dwarfs have been identified.&lt;ref name=&quot;DwarfArchives&quot;/&gt; An isolated object with less than about 13 [[Jupiter mass]]es is technically a [[sub-brown dwarf]] or [[rogue planet]].
+
+Because the mass of a brown dwarf is between that of a [[planet]] and that of a [[star]], they have also been called [[planetar (astronomy)|planetar]]s or [[hyperjovian]]s. Various catalog designations have been used to name brown dwarfs. Brown dwarfs with names ending in a letter such as B, C, or D are in orbit around a primary star; those with names ending in a lower-case letter such as b, c, or d, may be [[exoplanet]]s (see [[Exoplanet naming convention]]).
+
+Some exoplanets, especially those detected by [[Doppler spectroscopy|radial velocity]], can turn out to be brown dwarfs if their mass is higher than originally thought: most have only known [[minimum mass]]es because the [[inclination]] of their [[orbit]] is not known. Examples include [[HD 114762 b]] (&gt;11.68 M&lt;sub&gt;J&lt;/sub&gt;), [[Pi Mensae b]] (&gt;10.312 M&lt;sub&gt;J&lt;/sub&gt;), and [[NGC 2423-3 b]] (&gt;10.6 M&lt;sub&gt;J&lt;/sub&gt;).
+
+A complete list of more than 3000 [[Ultra-cool dwarf|ultracool dwarfs]], which includes brown dwarfs and low-mass stars, is being maintained by astronomers. It is called the UltracoolSheet.&lt;ref name=&quot;Best2024&quot;/&gt; The same team also produced a list of 1000 ultracool dwarfs with their mass being determined.&lt;ref name=&quot;Sanghi2023&quot;/&gt;
+
+== Confirmed brown dwarfs orbiting primary stars ==
+
+{{Expand list|date=February 2011}}
+
+''Sorted by increasing [[right ascension]] of the parent star. Brown dwarfs within a system sorted by increasing [[orbital period]].''
+
+''Some brown dwarfs listed could still be massive planets.''
+
+{| class=&quot;wikitable sortable&quot; style=&quot;text-align:center&quot;
+|-
+! [[Star]]
+! [[Constellation]]
+! [[Right ascension|Right&lt;br&gt;ascension]]
+! [[Declination]]
+! [[Apparent magnitude|App.&lt;br&gt;mag.]]
+! [[Stellar distance|Distance]] &lt;small&gt;([[light-year|ly]])&lt;/small&gt;
+! [[Stellar classification|Spectral&lt;br&gt;type]]
+! [[Brown dwarf]]
+! [[Mass]]&lt;br&gt;&lt;small&gt;([[Jupiter mass|M&lt;sub&gt;J&lt;/sub&gt;]])&lt;/small&gt;
+! [[Radius]]&lt;br&gt;&lt;small&gt;([[Jupiter radius|R&lt;sub&gt;J&lt;/sub&gt;]])&lt;/small&gt;
+! [[Orbital period|Orbital&lt;br&gt;period]]&lt;br&gt;&lt;small&gt;([[day|d]])&lt;/small&gt;
+! [[Semimajor axis|Semimajor&lt;br&gt;axis]]&lt;br&gt;&lt;small&gt;([[Astronomical unit|AU]])&lt;/small&gt;
+! [[Orbital eccentricity|Ecc.]]
+! Discovery&lt;br&gt;year
+|-[[]]
+| [[54 Piscium]] || [[Pisces (constellation)|Pisces]] || {{RA|00|39|22}} || {{DEC|+21|15|02}} || 5.88 || 36.1 || K0V+T7.5
+| B || 45.96 ±4.05&lt;ref name=&quot;Sanghi2023&quot; /&gt;|| 0.85&lt;ref name=&quot;Sanghi2023&quot; /&gt;|| || 476 || || 2006
+|-
+| [[81 Cancri]] || [[Cancer (constellation)|Cancer]] || {{RA|09|12|14.69}}|| {{DEC|14 | 59 | 39.6}} || 6.77 || 66 || G9V+L8||[[81 Cancri|CD]] || ||  ||  ||  880|| ||2001
+|-
+| [[AB Pictoris]] || [[Pictor]] || {{RA |06||19|12}} || {{DEC|-58|03|15}} || 9.16 || 66.6 || K2V+L1 || [[AB Pictoris b|b]] || 13.5 ||  ||  || 275 ||  || 2005
+|-
+| [[CD-33°7795|CD−33°7795]]|| [[Hydra (constellation)|Hydra]] || {{RA|11|31|55}} || {{DEC|–34|36|17}} || 11.37 || 163.08 || M1+M9
+| b || 20 ||  ||  || 100 ||  || 1998
+|-
+|[[HD 63754]]
+|[[Puppis]]
+| {{RA|07|49|45}}
+| {{DEC|20|12|27}}
+| 6.55
+|163.6
+|G0V + L/T
+|b
+|81.9
+|0.86
+|26,791
+|16.9
+|0.26
+|2024
+|-
+| [[CT Chamaeleontis]] || [[Chamaeleon]] || {{RA|11|04|09}} || {{DEC|–76|27|19}} || 12.36 || 538 || K7+M8
+| b || 17 || 2.2 ||  || 440 ||  || 2008
+|-
+|[[HD 984]]
+|[[Cetus]]
+|{{RA|00|14|10.25}}
+|{{DEC|-07|11|56.82}}
+|7
+.32
+|149.1
+|F7V
+|b
+|61
+|1.576
+|51,100
+|28
+|0.76
+|2015
+|-
+| [[Eta Coronae Borealis]] || [[Corona Borealis]] || {{RA|15|23|22.6}} || {{DEC|30|14|56}} || 5.02 || 58.3 || G2+G2+L8
+| C || 44.00 ±6.46&lt;ref name=&quot;Sanghi2023&quot; /&gt;||  0.95&lt;ref name=&quot;Sanghi2023&quot; /&gt;|| || 3600 ||  || 2010
+|-
+| [[G 196-3]] || [[Ursa Major]] || {{RA|10|04|22}} || {{DEC|+50|23|23}} || 11.77 || 50.2 || M2.5+L3β
+| b || 31.66 ±7.19&lt;ref name=&quot;Sanghi2023&quot; /&gt;||  1.18&lt;ref name=&quot;Sanghi2023&quot; /&gt;|| || 300 ||  || 1998
+|-
+| [[Gliese 570]] || [[Libra (constellation)|Libra]] || {{RA|14|57|28}} || {{DEC|-21|24|56}} || 5.64 || 19.0 || K4V+&lt;br&gt;M1V+M3V
+| D || 32.54 ±6.01&lt;ref name=&quot;Sanghi2023&quot; /&gt;|| 0.93&lt;ref name=&quot;Sanghi2023&quot; /&gt;|| || 1500 || || 2000
+|-
+| [[GU Piscium]] || [[Pisces (constellation)|Pisces]] || {{RA|01|12|35.04}} || {{DEC|+17|03|55.7}} || 13.1 || 155.3 || M3V+T3.5
+| b || 11 || || || 2000 || || 2006
+|-
+| [[HD 89744]] || [[Ursa Major]] || {{RA|10|22|10.56}} || {{DEC|+41|13|46.31}} || 5.74 || 126.2 || F7IV
+| B ||  ||  ||  ||  ||  || 2000
+|-
+| [[HD 100546]] || [[Musca]] || {{RA|11|33|25}} || {{DEC|–70|11|41}} || 6.70 || 337.25 || B9Vne
+| b || 20 || || || 6.5? || || 2005
+|-
+| [[HN Pegasi]] || [[Pegasus (constellation)|Pegasus]] || {{RA|21|44|28.46}} || {{DEC|+14|46|7.8}} ||  || 58.3 || G0V+T2.5
+| B || 17.06 ±6.9&lt;ref name=&quot;Sanghi2023&quot; /&gt;||1.14&lt;ref name=&quot;Sanghi2023&quot; /&gt;|| ||795 || || 2006
+|-
+|{{ill|LHS 4040|es|LHS 4040}}
+|[[Sculptor (constellation)|Sculptor]]
+|{{RA|23|54|9.28}}
+|{{DEC|－33 | 16 | 26.6}}
+|20.7
+|
+|DA5.7+M8.5V
+|C
+|
+|
+|
+|2200
+|
+|2004
+|-
+| [[UScoCTIO 108]] || [[Scorpius]] || {{RA|16|05|54}} || {{DEC|–18|18|43}} ||  || 473 || M7
+| b || 14 ||  ||  || 670 ||  || 2007
+|-
+| [[HD 41004|HD 41004 B]] || [[Pictor]] || {{RA|05|59|50}} || {{DEC|–48|14|23}} || 12.33 || 139 || K1IV+M2
+| [[HD 41004 Bb|b]] || 18.4 ||  || 1.3283 || 0.0177 || 0.081 || 2004
+|-
+| [[CoRoT-15]]|| [[Monoceros (constellation)|Monoceros]] || {{RA|06|28|27.81}} || {{DEC|+6|11|10.5}} || 22 |||| F7V
+| [[CoRoT-15b|b]]||63.4||1.12||3.06036||0.045||0|| 2010
+|-
+| [[Xi Ursae Majoris|Xi Ursae Majoris B]] || [[Ursa Major]] || {{RA|11|18|12}} || {{DEC|+31|32|15}} || 4.73 || 25.11 || F8.5V
+| b || 37 ||  || 3.98 || 0.06 || 0 || 1931
+|-
+| [[Upsilon Andromedae]] || [[Andromeda (constellation)|Andromeda]] || {{RA|01|36|48}} || {{DEC|+41|24|20}} || 4.63 || 43.9 || F8V
+| [[Upsilon Andromedae c|Samh]] || 13.98 ||  || 237.7 || 0.822 || 0.224 || 1999
+|-
+| [[Gliese 758]] || [[Lyra (constellation)|Lyra]] || {{RA|19|23|34}} || {{DEC|+33|13|19}} || 6.36 || 51.9 || G8V+T9
+| [[Gliese 758 B|B]] || 23 ||  || 96 || 21 ||  || 2009
+|-
+| [[HD 112758]]|| [[Virgo (constellation)|Virgo]] || {{RA|12|59|03}} || {{DEC|–09|50|03}} || 7.56 || 53.81 || K0V
+| b || 35 ||  || 103.22 || 0.35 || 0.16 || 1996
+|-
+| [[BD-04°782|BD−04°782]]|| [[Eridanus (constellation)|Eridanus]] || {{RA|04|15|10}} || {{DEC|–04|25|06}} || 9.39 || 66.6 || K5V
+| b || 21 ||  || 240.92 || 0.7 || 0.28 || 1996
+|-
+| [[HD 110833]]|| [[Canes Venatici]] || {{RA|12|44|16}} || {{DEC|+51|45|40}} || 7.04 || 55.44 || K3V
+| b || 17 ||  || 270.04 || 0.8 || 0.69 || 1996
+|-
+| [[HD 89707]]|| [[Hydra (constellation)|Hydra]] || {{RA|10|20|50}} || {{DEC|–15|28|48}} || 7.19 || 81.54 || G1V
+| b || 54 ||  || 298.25 ||  || 0.95 || 1991
+|-
+| [[Tau Geminorum]] || [[Gemini (constellation)|Gemini]] || {{RA|07|11|08}} || {{DEC|+30|14|43}} || 4.40 || 302 || K2III
+| b || 18.1 ||  || 305 ||  ||  || 2004
+|-
+| [[HAT-P-13]] || [[Ursa Major]] || {{RA|08|39|32}} || {{DEC|+47|21|07}} || 10.62 || 698 || G4
+| [[HAT-P-13c|c]] || 15.2 ||  || 428.5 || 1.186 || 0.691 || 2009
+|-
+| [[HD 217580]]|| [[Aquarius (constellation)|Aquarius]] || {{RA|23|01|52}} || {{DEC|–03|50|55}} || 7.46 || 58.7 || K4V
+| b || 60 ||  || 454.66 || 1 || 0.52 || 1994
+|-
+| [[HD 16760]] || [[Perseus (constellation)|Perseus]] || {{RA|02|42|21}} || {{DEC|+38|37|07}} || 8.74 || 163 || G5V
+| [[HD 16760 b|b]] || 14.3 ||  || 465.1 || 1.13 || 0.067 || 2009
+|-
+| [[HD 13189]] || [[Triangulum]] || {{RA|02|09|40}} || {{DEC|+32|18|59}} || 7.57 || 603.4 || K2II
+| [[HD 13189 b|b]] || 14 ||  || 471.6 || 1.85 || 0.28 || 2005
+|-
+| [[HD 18445]]|| [[Fornax]] || {{RA|02|57|13}} || {{DEC|–24|58|30}} || 7.78 || 83.92 || K2V
+| b || 39 ||  || 554.67 || 0.9 || 0.54 || 1991
+|-
+| [[HD 8673]] || [[Andromeda (constellation)|Andromeda]] || {{RA|01|26|09}} || {{DEC|+34|34|47}} || 6.31 || 124.75 || F7V
+| b || 14 ||  || 639 || 1.58 || || 2005
+|-
+| [[Gliese 569]] || [[Boötes]] || {{RA|14|54|29}} || {{DEC|+16|06|04}} || 10.2 || 31.5 || M3V+M8.5
+| Ba + Bb || 116&lt;ref name=&quot;GJ569Bab&quot;/&gt; ||  || 870&lt;ref name=&quot;GJ569Bab&quot;/&gt; || 0.87&lt;ref name=&quot;GJ569Bab&quot;/&gt; || 0.317&lt;ref name=&quot;GJ569Bab&quot;/&gt; || 1988&lt;ref name =&quot;Gliese569B discovery&quot;/&gt;
+|-
+| [[HD 29587]] || [[Perseus (constellation)|Perseus]] || {{RA|04|41|34}} || {{DEC|+42|07|25}} || 7.29 || 146.77 || G2V
+| b || 40 ||  || 1471.7 || 2.5 || 0.37 || 1996
+|-
+| [[ChaHα8]] || [[Chamaeleon]] || {{RA|11|07|48}} || {{DEC|−77|40|08}} || 20.1 || 522 || M6.5
+| b || 18 ||  || 1590.9 || 1 || 0.49 || 2007
+|-
+| [[CoRoT-20]]|| [[Monoceros (constellation)|Monoceros]] || {{RA|06|30|55.3}} || {{DEC|+0|13|37}} || 14.66 ||4000|| G2V
+| [[CoRoT-20c|c]] ||17||||1675||2.9||0.6|| 2010
+|-
+| [[HD 168443]] || [[Serpens]] || {{RA|18|20|04}} || {{DEC|–09|35|34}} || 6.92 || 123.5 || G5
+| c || 34 ||  || 1739.5 || 2.87 || 0.228 || 2001
+|-
+| [[HD 38529|HD 38529 A]] || [[Orion (constellation)|Orion]] || {{RA|05|46|34}} || {{DEC|+01|10|05}} || 5.94 || 138 || G4IV
+| c || 37 ||  || 2174.3 || 3.68 || 0.36 || 2002
+|-
+| [[Epsilon Indi]] || [[Indus (constellation)|Indus]] || {{RA|22|03|22}} || {{DEC|–56|47|09}} || 4.69 || 11.8 || K5V+T1V+T6V
+| [[Epsilon Indi#Companions|Bb]] || 28 ||  || 5478.75 || 2.65 ||  || 2003
+|-
+| [[HW Virginis]] || [[Virgo (constellation)|Virgo]] || {{RA|12|44|20}} || {{DEC|−08|40|17}} || 10.9 || 590 || sdB+M
+| b || 19.23 ||  || 5786 || 5.30 || 0.46 || 2008
+|-
+| [[DT Virginis]] || [[Virgo (constellation)|Virgo]] || {{RA|13|0|41.74}} || {{DEC|12 | 21 | 14.7}} || 9.72 || 37.55 || M0V+T8.5p
+| c || 10.29 ±2.46&lt;ref name=&quot;Sanghi2023&quot; /&gt;|| 1.15&lt;ref name=&quot;Sanghi2023&quot; /&gt;|| 33081 ||  1100|| || 2010
+|-
+| [[HD 4113]] || [[Sculptor (constellation)|Sculptor]] || {{RA|00|43|12.60}} || {{DEC|-37|58|57.48}} || 7.88 || 136 || G5V+T9
+| C || 60 || ||73000||20|| || 2006
+|-
+| [[Gliese 229]] || [[Lepus (constellation)|Lepus]] || {{RA|06|10|35}} || {{DEC|–21|51|42}} || 8.14 || 19 || M1V+T6.5 || B || 40 || || 73050 || 40 ||  || 1995
+|-
+| [[TYC 9486-927-1]] ||[[Octans]]|| {{RA|21|26|50.4}} || {{DEC|－81|40|29.3}} || 11.82 || 111 || M1V+L3γ || [[2MASS J2126–8140|2MASS J2126-8140]] ||13.3 ± 1.7 || ||  328725000 || 6900 ||  || 2009
+|-
+| [[Epsilon Indi]] || [[Indus (constellation)|Indus]] || {{RA|22|03|22}} || {{DEC|–56|47|09}} || 4.69 || 11.8 || K5V+T1V+T6V
+| [[Epsilon Indi#Companions|Ba]] || 47 ||  || 1532899.8 ||  ||  || 2003
+|-
+| [[HD 131664]] || [[Apus]] || {{RA|15|00|06}} || {{DEC|−73|32|07}} || 8.13 || 180.8 || G3V
+| b || 18.15 ||  || 1951 || 3.17 || 0.638 || 2008
+|-
+| [[HD 136118]] || [[Serpens]] || {{RA|15|18|55}} || {{DEC|−01|35|32}} || 6.94 || 171 || F9V
+| [[HD 136118 b|b]] || 42 ||  || 1209 || 1.45 || 0.352 || 2002
+|-
+| [[HD 140913]] || [[Corona Borealis]] || {{RA|15|45|07}} || {{DEC|+28|28|12}} || 8.07 || 156.42 || G0V
+| b || 46 ||  || 147.94 || 0.54 || 0.61 || 1996
+|-
+| [[GQ Lupi b]] || [[Lupus (constellation)|Lupus]] || {{RA|15|49|12}} || {{DEC|–35|39|03}} || 11.4 || 400 || K7eV+M9e
+| [[GQ Lupi b|b]] || 1–42 || 1.8 ||  || 103 ||  || 2005
+|-
+| [[HD 162020]] || [[Scorpius]] || {{RA|17|50|38}} || {{DEC|–40|19|06}} || 9.18 || 101.95 || K2V
+| [[HD 162020 b|b]] || 15.0 ||  || 8.428198 || 0.0751 || 0.277 || 2000
+|-
+| [[Nu Ophiuchi]] || [[Ophiuchus]] || {{RA|17|59|01}} || {{DEC|−09|46|25}} || 3.33 || 152.8 || K0III
+| b || 21.9 ||  || 536 ||  ||  0.13 || 2004
+|-
+| [[HD 164427]] || [[Telescopium]] || {{RA|18|04|43}} || {{DEC|−59|12|35}} || 6.89 || 127.52 || G4IV
+| [[HD 164427 b|b]] || 46 ||  || 108.55 || 0.46 || 0.55 || 2000
+|-
+| [[SCR 1845-6357]] || [[Pavo (constellation)|Pavo]] || {{RA|18|45|07}} || {{DEC|−63|57|43}} || 17.4 || 12.57 || M8.5V
+| B || 40-50 ||  ||  || 4.1 ||  || 2006
+|-
+| [[COROT-3]] || [[Aquila (constellation)|Aquila]] || {{RA|19|28|13}} || {{DEC|+00|07|19}} || 13.3 || 2220 || G0V
+| [[COROT-3b|b]] || 21.66 || 1.01 || 4.2568 || 0.057 || 0 || 2008
+|-
+|[[V921 Scorpii]]&lt;ref&gt;{{Cite web |last=Martin |first=Pierre-Yves |date=2022 |title=Planet V921 Sco b |url=https://exoplanet.eu/catalog/v921_sco_b--7107/ |access-date=2024-01-01 |website=exoplanet.eu |language=en}}&lt;/ref&gt;
+|[[Scorpius]]
+|{{RA|16|59|07.0}}
+|{{DEC|-42|42|09.0}}
+|11.0
+|4833
+|B0IVe
+|[[V921 Scorpii b|b]]
+|60
+|
+|
+|835
+|
+|2019
+|-
+| [[15 Sagittae]] || [[Sagitta (constellation)|Sagitta]] || {{RA|20|04|06}} || {{DEC|+17|04|13}} || 5.80 || 57.7 || G1V+L4-5
+| B || 65 ||  ||  || 14 ||  || 2002
+|-
+| [[Zeta Delphini]] || [[Delphinus (constellation)|Delphinus]] || {{RA|20|35|19}} || {{DEC|+14|40|27}} || 4.65 || 220 || A3V+L5
+| B || 55 ||  ||  || 910 ||  || 2014
+|-
+| [[HD 202206]] || [[Capricornus]] || {{RA|21|14|58}} || {{DEC|–20|47|20}} || 8.08 || 151.14 || G6V
+| b || 17.4 ||  || 255.87 || 0.83 || 0.435 || 2000
+|-
+|[[Königstuhl 1|Koenigstuhl1]]&lt;ref name=&quot;Sanghi2023&quot; /&gt;&lt;ref name=&quot;Cifuentes2021&quot;/&gt;
+|Phoenix
+| {{RA|00|21|10.74}}
+| {{DEC|–42|45|40.2}}
+|15.3
+|87.4
+|M5.5V+L0.6V
+|B
+|51.88 ±3.6
+|1.18
+|
+|2083.4
+|
+|1998
+|-
+|[[HD 12051]]&lt;ref name=&quot;Sanghi2023&quot; /&gt;&lt;ref name=&quot;Deacon2014&quot;/&gt;
+|Triangulum
+| {{RA|01|59|06.63}}
+| {{DEC|+33|12|34.9}}
+|7.92
+|80.6
+|G9V+L6
+|B
+|72.25 ±1.06
+|0.89
+|
+|1300
+|
+|2014
+|-
+|[[HD 65486]]&lt;ref name=&quot;Sanghi2023&quot; /&gt;&lt;ref name=&quot;Deacon2012&quot;/&gt;
+|Puppis
+| {{RA|07|58|04.37}}
+| {{DEC|-25|37|35.9}}
+|8.4
+|60.2
+|K4V+T4.5
+|B
+|28.94 ±8.8
+|1.01
+|
+|1630
+|
+|2012
+|-
+|[[LP 261–75]]&lt;ref name=&quot;Sanghi2023&quot; /&gt;&lt;ref name=&quot;Burgasser2005&quot;/&gt;
+|Leo Minor
+| {{RA|09|51|04.58}}
+| {{DEC|+35|58|09.5}}
+|16.1
+|110.9
+|M:+L6
+|B
+|15.06 ±2.58
+|1.25
+|
+|820
+|
+|2000/2005
+|-
+|[[LP 738–14]]&lt;ref name=&quot;Sanghi2023&quot; /&gt;&lt;ref name=&quot;Deacon2012a&quot;/&gt;
+|Virgo
+| {{RA|13|48|07.28}}
+| {{DEC|-13|44|31.6}}
+|15.1
+|59.3
+|M4.5+T5.5
+|B
+|55.9 ±5.76
+|0.83
+|
+|1400
+|
+|2012
+|-
+|[[HD 126053]]&lt;ref name=&quot;Sanghi2023&quot; /&gt;&lt;ref name=&quot;Pinfield2012&quot;/&gt;
+|Virgo
+| {{RA|14|23|15.28}}
+| {{DEC|+01|14|29.6}}
+|6.3
+|56.9
+|G1+T8p
+|B
+|34.29 ±18.38
+|0.91
+|
+|2630
+|
+|2012
+|-
+|[[47 Ophiuchi]]&lt;ref name=&quot;Sanghi2023&quot; /&gt;&lt;ref name=&quot;Deacon2014&quot; /&gt;
+|Ophiuchus
+| {{RA|17|26|37.88}}
+| {{DEC|-05|05|11.8}}
+|4.5
+|105.3
+|F3+L5.5
+|B
+|69.66 ±0.88
+|0.93
+|
+|8850
+|
+|2014
+|-
+|[[G 67–32]]&lt;ref name=&quot;Sanghi2023&quot; /&gt;&lt;ref name=&quot;Deacon2014&quot; /&gt;
+|Pegasus
+| {{RA|22|54|28.27}}
+| {{DEC|+22|03|04.5}}
+|14.9
+|127.2
+|M2+L5.5
+|B
+|67.03 ±11.71
+|0.91
+|
+|432
+|
+|2014
+|-
+|[[PM J23492+3458]]&lt;ref name=&quot;Sanghi2023&quot; /&gt;&lt;ref name=&quot;Deacon2014&quot; /&gt;
+|Andromeda
+| {{RA|23|49|17.78}}
+| {{DEC|+34|58|44.7}}
+|12.6
+|99.8
+|M2+L9
+|B
+|64.21 ±12.29
+|0.91
+|
+|949
+|
+|2014
+|-
+|[[Wolf 1130]]
+|Cygnus
+| {{RA|20|05|02.20}}
+| {{DEC|+54|26|03.2}}
+|13.9
+|54.1
+|sdM3+ONe+sdT8
+|C
+|44.9
+|0.82
+|
+|3150
+|
+|2013
+|-
+|[[L 26-16]]&lt;ref name=&quot;Marocco2024&quot;/&gt;
+|Octans
+| {{RA|00|03|18.46}}
+| {{DEC|-75|33|21.0}}
+|11.7
+|141.4
+|M0V+T4
+|B
+|52–73
+|
+|
+|2199
+|
+|2024
+|-
+|[[2MASS J00103250+1715490]]&lt;ref name=&quot;Marocco2024&quot; /&gt;
+|Pegasus
+| {{RA|00|10|32.46}}
+| {{DEC|+17|15|48.9}}
+|18.2
+|133.3
+|M8V+T5.5
+|B
+|50–65
+|
+|
+|739
+|
+|2024
+|-
+|[[UCAC3 52–1038]]&lt;ref name=&quot;Marocco2024&quot; /&gt;
+|Tucana
+| {{RA|00|31|23.77}}
+| {{DEC|-64|13|59.2}}
+|13.1
+|108.0
+|M2V+T6
+|B
+|43–64
+|
+|
+|7139
+|
+|2024
+|-
+|[[LP 712–16]]&lt;ref name=&quot;Marocco2024&quot; /&gt;
+|Eridanus
+| {{RA|03|12|14.52}}
+| {{DEC|-08|45|45.8}}
+|13.8
+|120.1
+|M4V+T6
+|B
+|47–65
+|
+|
+|623
+|
+|2024
+|-
+|[[UCAC3 40–6918]]&lt;ref name=&quot;Marocco2024&quot; /&gt;
+|Hydrus
+| {{RA|03|28|08.35}}
+| {{DEC|-70|01|40.7}}
+|13.1
+|70.8
+|M3V+T8
+|B
+|15–46
+|
+|
+|1549
+|
+|2024
+|-
+|[[CWISE J054129.32–745021.5]]&lt;ref name=&quot;Marocco2024&quot; /&gt;
+|Mensa
+| {{RA|05|41|29.26}}
+| {{DEC|-74|50|23.4}}
+|15.0
+|254.0
+|M4V+T8
+|B
+|1.8–16
+|
+|
+|6576
+|
+|2024
+|-
+|[[SCR J0959–3007]]&lt;ref name=&quot;Marocco2024&quot; /&gt;
+|Antila
+| {{RA|09|59|00.57}}
+| {{DEC|-30|07|44.2}}
+|14.8
+|99.8
+|M5V+T5
+|B
+|&lt;35
+|
+|
+|1165
+|
+|2024
+|-
+|[[UCAC4 307–069397]]&lt;ref name=&quot;Marocco2024&quot; /&gt;
+|Hydra
+| {{RA|13|00|02.01}}
+| {{DEC|-28|43|29.5}}
+|12.6
+|89.5
+|M4V+T6
+|B
+|47–64
+|
+|
+|601
+|
+|2024
+|-
+|[[LP 270–10]]&lt;ref name=&quot;Marocco2024&quot; /&gt;
+|Canes Venatici
+| {{RA|13|53|46.54}}
+| {{DEC|+38|04|23.1}}
+|12.8
+|112.2
+|M2V+T6.5
+|B
+|40–60
+|
+|
+|1750
+|
+|2024
+|-
+|[[LP 81–30]]&lt;ref name=&quot;Marocco2024&quot; /&gt;
+|Bootes
+| {{RA|14|16|11.37}}
+| {{DEC|+23|23|29.2}}
+|11.1
+|89.2
+|M2V+T7
+|B
+|35–55
+|
+|
+|1512
+|
+|2024
+|-
+|[[G135–35]]&lt;ref name=&quot;Marocco2024&quot; /&gt;
+|Bootes
+| {{RA|14|17|40.11}}
+| {{DEC|+20|56|38.8}}
+|12.4
+|90.1
+|M3V+T3
+|B
+|70–76
+|
+|
+|4192
+|
+|2024
+|-
+|[[UCAC3 113–933]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Sculptor
+| {{RA|00|21|06.05}}
+| {{DEC|-33|48|10.6}}
+|12.5
+|171.5
+|M0+T1
+|B
+|21
+|
+|
+|6100
+|
+|2024
+|-
+|[[2MASS J00215427–4514590]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Phoenix
+| {{RA|00|21|54.27}}
+| {{DEC|-45|14|59.3}}
+|15.5
+|176.7
+|M5+T3
+|B
+|31
+|
+|
+|2900
+|
+|2024
+|-
+|[[UCAC4 204–003910]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Horologium
+| {{RA|04|03|53.61}}
+| {{DEC|-49|16|28.4}}
+|12.8
+|136.5
+|M2+T7
+|B
+|31
+|
+|
+|1400
+|
+|2024
+|-
+|[[G 194–47]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Ursa Major
+| {{RA|08|59|35.89}}
+| {{DEC|+53|43|50.4}}
+|13.3
+|58.5
+|M3.5+M3.5+T9
+|C
+|31
+|
+|
+|5700
+|
+|2024
+|-
+|[[StKM 1–760]] + [[LP 369–22]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Cancer
+| {{RA|09|16|22.77}}
+| {{DEC|+25|39|49.6}}
+|11.1
+|158.3
+|K6+DZ+T5
+|C
+|31
+|
+|
+|27000
+|
+|2024
+|-
+|[[WISEA J091900.48–574847.1]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Carina
+| {{RA|09|19|00.42}}
+| {{DEC|-57|48|45.8}}
+|14.1
+|136.9
+|M4+T2
+|B
+|31
+|
+|
+|810
+|
+|2024
+|-
+|[[2MASS J09530410–5055203]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Vela
+| {{RA|09|53|04.10}}
+| {{DEC|-50|55|20.4}}
+|15.2
+|91.6
+|M6+T2
+|B
+|31
+|
+|
+|2100
+|
+|2024
+|-
+|[[UPM J1040–3551]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Antila
+| {{RA|10|40|55.49}}
+| {{DEC|-35|51|31.1}}
+|14.6
+|82.5
+|M3.8+T7
+|B
+|31
+|
+|
+|1700
+|
+|2024
+|-
+|[[2MASS J14395174+2559447]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Bootes
+| {{RA|14|39|51.73}}
+| {{DEC|+25|59|44.4}}
+|15.5
+|134.2
+|M3+T3
+|B
+|31
+|
+|
+|640
+|
+|2024
+|-
+|[[HD 170573]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Telescopium
+| {{RA|18|33|05.08}}
+| {{DEC|-54|15|47.5}}
+|8.5
+|62.4
+|K4.5Vk+T7
+|B
+|31
+|
+|
+|12000
+|
+|2024
+|-
+|[[HD 188769]] + [[DENIS J200057.2–644827]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Pavo
+| {{RA|20|01|00.91}}
+| {{DEC|-64|48|28.5}}
+|6.8
+|159.9
+|F3IV+M5+T5
+|C
+|31
+|
+|
+|25000
+|
+|2024
+|-
+|[[BD+24 4329]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Vulpecula
+| {{RA|21|08|01.90}}
+| {{DEC|+25|10|34.4}}
+|11.0
+|111.3
+|K6V+T2
+|B
+|31
+|
+|
+|38000
+|
+|2024
+|-
+|[[LSPM J2214+2534]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Pegasus
+| {{RA|22|14|17.69}}
+| {{DEC|+25|34|06.4}}
+|15.7
+|134.5
+|M4.3+M4.3+L9
+|C
+|31
+|
+|
+|1200
+|
+|2024
+|-
+|[[LP 933–24]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Piscis Austrinus
+| {{RA|22|55|43.86}}
+| {{DEC|-30|22|39.0}}
+|11.7
+|117.4
+|M1+M5+T8
+|C
+|31
+|
+|
+|9000
+|
+|2024
+|-
+|[[CD–24 407]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Cetus
+| {{RA|00|56|36.11}}
+| {{DEC|-24|02|17.8}}
+|10.0
+|220.5
+|K2+L8
+|B
+|52
+|
+|
+|6900
+|
+|2024
+|-
+|[[LP 466–214]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Pisces
+| {{RA|01|04|27.99}}
+| {{DEC|+13|37|16.7}}
+|20.3
+|208.7
+|M4.5+L8
+|B
+|52
+|
+|
+|10000
+|
+|2024
+|-
+|[[LP 883–372]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Sculptor
+| {{RA|01|27|17.25}}
+| {{DEC|-30|03|31.6}}
+|13.7
+|161.6
+|M3+T0
+|B
+|52
+|
+|
+|2500
+|
+|2024
+|-
+|[[BPS CS 22963–0014]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Eridanus
+| {{RA|03|00|09.68}}
+| {{DEC|-06|22|02.2}}
+|12.1
+|218.9
+|K7+L9
+|B
+|52
+|
+|
+|4200
+|
+|2024
+|-
+|[[LSPM J0407+1911]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Taurus
+| {{RA|04|07|21.97}}
+| {{DEC|+19|11|38.6}}
+|15.2
+|173.8
+|M4+M4+T1
+|C
+|52
+|
+|
+|16000
+|
+|2024
+|-
+|[[LP 961–51]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Hydra
+| {{RA|11|52|35.61}}
+| {{DEC|-35|09|43.4}}
+|13.0
+|152.5
+|M3+T0
+|B
+|52
+|
+|
+|5300
+|
+|2024
+|-
+|[[NLTT 35024]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Bootes
+| {{RA|13|43|38.80}}
+| {{DEC|+08|25|43.5}}
+|19.4
+|85.2
+|M5.5+T0
+|B
+|52
+|
+|
+|24000
+|
+|2024
+|-
+|[[CWISE J165141.67+695306.6]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Draco
+| {{RA|16|51|41.67}}
+| {{DEC|+69|53|06.6}}
+|20.6
+|184.3
+|L0.5+T1
+|B
+|52
+|
+|
+|700
+|
+|2024
+|-
+|[[LEHPM 5083]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Grus
+| {{RA|22|44|48.22}}
+| {{DEC|-36|28|45.8}}
+|14.2
+|172.9
+|M4+T1
+|B
+|52
+|
+|
+|3900
+|
+|2024
+|-
+|[[TYC 8025–428–1]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Phoenix
+| {{RA|00|00|15.74}}
+| {{DEC|-48|12|58.0}}
+|10.2
+|285.6
+|G5+L4
+|B
+|63
+|
+|
+|5000
+|
+|2024
+|-
+|[[WT 5]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Phoenix
+| {{RA|00|24|19.94}}
+| {{DEC|-40|31|33.3}}
+|16.0
+|174.8
+|M4.5+M4.5+L5
+|C
+|63
+|
+|
+|4200
+|
+|2024
+|-
+|[[CD–26 134]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Sculptor
+| {{RA|00|26|57.25}}
+| {{DEC|-26|08|34.3}}
+|11.5
+|285.9
+|K2+L5
+|B
+|63
+|
+|
+|2600
+|
+|2024
+|-
+|[[TYC 1744–123–1]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Andromeda
+| {{RA|00|42|25.57}}
+| {{DEC|+29|18|17.7}}
+|11.8
+|223.2
+|K7+L5
+|B
+|63
+|
+|
+|7100
+|
+|2024
+|-
+|[[LAMOST J004950.95+423653.6]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Andromeda
+| {{RA|00|49|50.95}}
+| {{DEC|+42|36|53.6}}
+|
+|183.5
+|M4+L6
+|B
+|63
+|
+|
+|3900
+|
+|2024
+|-
+|[[CWISE J013716.34+342352.7]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Triangulum
+| {{RA|01|37|16.34}}
+| {{DEC|+34|23|52.7}}
+|13.5
+|201.1
+|M3+L6
+|B
+|63
+|
+|
+|18000
+|
+|2024
+|-
+|[[G 73–59]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Cetus
+| {{RA|02|27|36.67}}
+| {{DEC|+08|29|59.1}}
+|15.7
+|110.3
+|M3+L5(blue)
+|B
+|63
+|
+|
+|550
+|
+|2024
+|-
+|[[HD 40781]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Columba
+| {{RA|05|59|13.38}}
+| {{DEC|-38|42|38.0}}
+|8.4
+|197.8
+|G0+L4
+|B
+|63
+|
+|
+|3300
+|
+|2024
+|-
+|[[CWISE J061959.56+344631.3]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Auriga
+| {{RA|06|19|59.56}}
+| {{DEC|+34|46|31.3}}
+|14.3
+|119.6
+|M4+L4
+|B
+|63
+|
+|
+|420
+|
+|2024
+|-
+|[[CWISE J062911.12+395632.8]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Auriga
+| {{RA|06|29|11.12}}
+| {{DEC|39|56|32.8}}
+|14.0
+|199.6
+|M4+L5
+|B
+|63
+|
+|
+|2200
+|
+|2024
+|-
+|[[HD 51400]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Gemini
+| {{RA|06|57|50.00}}
+| {{DEC|+16|34|42.9}}
+|8.2
+|120.9
+|G5+L6β
+|B
+|63
+|
+|
+|2300
+|
+|2024
+|-
+|[[LSPM J0738+5254]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Lynx
+| {{RA|07|38|32.54}}
+| {{DEC|+52|54|54.4}}
+|14.5
+|153.4
+|M3+L4(red)
+|B
+|63
+|
+|
+|530
+|
+|2024
+|-
+|[[LP 17–276]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Camelopardalis
+| {{RA|08|09|23.01}}
+| {{DEC|+74|23|46.4}}
+|15.2
+|138.2
+|M5+L6
+|B
+|63
+|
+|
+|17000
+|
+|2024
+|-
+|[[TYC 8927–2833–1]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Carina
+| {{RA|08|51|35.28}}
+| {{DEC|-60|29|24.0}}
+|10.8
+|100.9
+|K7+L3
+|B
+|63
+|
+|
+|2900
+|
+|2024
+|-
+|[[CWISE J101533.05–111501.0]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Sextans
+| {{RA|10|15|33.05}}
+| {{DEC|-11|15|01.0}}
+|
+|136.2
+|M5+M5+L5β
+|C
+|63
+|
+|
+|5800
+|
+|2024
+|-
+|[[CWISE J133211.59–374953.3]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Centaurus
+| {{RA|13|32|11.59}}
+| {{DEC|-37|49|53.3}}
+|17.9
+|238.8
+|M7+L5
+|B
+|63
+|
+|
+|5500
+|
+|2024
+|-
+|[[CWISE J144058.48+380422.1]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Bootes
+| {{RA|14|40|58.48}}
+| {{DEC|+38|04|22.1}}
+|17.6
+|291.2
+|M4.5+L4
+|B
+|63
+|
+|
+|1200
+|
+|2024
+|-
+|[[CWISE J160653.16–103210.6]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Scorpius
+| {{RA|16|06|53.16}}
+| {{DEC|-10|32|10.6}}
+|17.7
+|132.5
+|M9+L7(blue)
+|B
+|63
+|
+|
+|640
+|
+|2024
+|-
+|[[UCAC4 840–013771]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Ursa Minor
+| {{RA|16|24|18.57}}
+| {{DEC|+77|54|08.8}}
+|14.9
+|193.8
+|M2+L2
+|B
+|63
+|
+|
+|19000
+|
+|2024
+|-
+|[[BD+49 2561]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Hercules
+| {{RA|16|53|22.51}}
+| {{DEC|+49|05|28.1}}
+|10.1
+|186.1
+|K2+M2+L5
+|C
+|63
+|
+|
+|3000
+|
+|2024
+|-
+|[[StKM 1–1526]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Hercules
+| {{RA|17|45|13.98}}
+| {{DEC|+38|07|00.0}}
+|10.4
+|186.6
+|K5+M4+L4β
+|C
+|63
+|
+|
+|3900
+|
+|2024
+|-
+|[[LP 754–21]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Capricornus
+| {{RA|20|08|16.06}}
+| {{DEC|-12|46|13.5}}
+|13.7
+|188.7
+|M1+L7
+|B
+|63
+|
+|
+|4800
+|
+|2024
+|-
+|[[LSPM J2052+0539]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Delphinus
+| {{RA|20|52|46.70}}
+| {{DEC|+05|39|09.2}}
+|16.8
+|194.1
+|M3+L7
+|B
+|63
+|
+|
+|790
+|
+|2024
+|-
+|[[WISEA J231825.63+052141.6]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Pisces
+| {{RA|23|18|25.68}}
+| {{DEC|+05|21|42.8}}
+|15.6
+|228.6
+|M4+L4
+|B
+|63
+|
+|
+|1100
+|
+|2024
+|-
+|[[CWISE J025638.42–335454.9]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Fornax
+| {{RA|02|56|38.42}}
+| {{DEC|-33|54|54.9}}
+|12.8
+|188.5
+|M2+L2
+|B
+|73
+|
+|
+|17000
+|
+|2024
+|-
+|[[CWISE J032852.72–112345.6]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Eridanus
+| {{RA|03|28|52.72}}
+| {{DEC|-11|23|45.6}}
+|
+|348.5
+|M4+L2
+|B
+|73
+|
+|
+|1700
+|
+|2024
+|-
+|[[LAMOST J062631.15+593341.3]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Lynx
+| {{RA|06|26|31.33}}
+| {{DEC|+59|33|43.5}}
+|15.3
+|180.3
+|M1+L3(blue)
+|C
+|73
+|
+|
+|27000
+|
+|2024
+|-
+|[[2MASS J09435055+3356550]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Leo Minor
+| {{RA|09|43|50.55}}
+| {{DEC|+33|56|55.0}}
+|
+|215.9
+|M3+L2(red)
+|B
+|73
+|
+|
+|1800
+|
+|2024
+|-
+|[[LP 670–45]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Sextans
+| {{RA|10|37|32.49}}
+| {{DEC|-05|07|51.1}}
+|16.5
+|294.9
+|M3+L3
+|B
+|73
+|
+|
+|2700
+|
+|2024
+|-
+|[[2MASS J13032992+5127582]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Canes Venatici
+| {{RA|13|03|29.92}}
+| {{DEC|+51|27|58.2}}
+|18.3
+|152.3
+|M8+L2(red)
+|B
+|73
+|
+|
+|240
+|
+|2024
+|-
+|[[LP 378–789]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Coma Berenices
+| {{RA|13|13|57.05}}
+| {{DEC|+22|30|07.5}}
+|20.4
+|218.5
+|M7+L3
+|B
+|73
+|
+|
+|1900
+|
+|2024
+|-
+|[[LP 677–81]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Virgo
+| {{RA|13|28|56.30}}
+| {{DEC|-06|37|44.3}}
+|15.6
+|244.9
+|M3+L3(blue)
+|B
+|73
+|
+|
+|1400
+|
+|2024
+|-
+|[[WISEA J143934.77–804838.8]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Apus
+| {{RA|14|39|35.25}}
+| {{DEC|-80|48|38.4}}
+|14.6
+|171.6
+|M4+L2
+|B
+|73
+|
+|
+|680
+|
+|2024
+|-
+|[[SCR J2029–7910]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Octans
+| {{RA|20|29|45.51}}
+| {{DEC|-79|10|06.4}}
+|17.6
+|162.1
+|M6(blue)+L1(blue)
+|B
+|73
+|
+|
+|1700
+|
+|2024
+|-
+|[[TYC 5213–545–1]]&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Aquarius
+| {{RA|21|41|24.84}}
+| {{DEC|-02|47|47.0}}
+|10.9
+|257.6
+|K0+L4(sl. red)
+|B
+|73
+|
+|
+|9000
+|
+|2024
+|}
+
+== Confirmed brown dwarf orbiting stellar remnants ==
+A [[Compact object|stellar remnant]] can be for example a [[white dwarf]], a [[pulsar]] or a [[black hole]]. Objects with a mass of a brown dwarf, but with a history of mass-transfer might not be brown dwarfs. If they exist as a [[period bouncer]] around a white dwarf they are thought to once have been stars and are today &quot;brown dwarf-like objects&quot;.&lt;ref name=&quot;Neustroev2023&quot;/&gt; Objects around [[Black Widow Pulsar|black widow pulsars]] on the other hand are thought to be white dwarfs that lost mass to the pulsar and therefore will differ in composition and density compared to brown dwarfs.&lt;ref name=&quot;Swihart2022&quot;/&gt; This list is sorted after the discovery year.
+{| class=&quot;wikitable sortable&quot; style=&quot;text-align:center&quot;
+|-
+! [[Star]]
+! [[Constellation]]
+! [[Right ascension|Right&lt;br&gt;ascension]]
+! [[Declination]]
+! [[Apparent magnitude|App.&lt;br&gt;mag.]]
+! [[Stellar distance|Distance]] &lt;small&gt;([[light-year|ly]])&lt;/small&gt;
+! [[Stellar classification|Spectral&lt;br&gt;type]]
+! [[Brown dwarf]]
+! [[Mass]]&lt;br&gt;&lt;small&gt;([[Jupiter mass|M&lt;sub&gt;J&lt;/sub&gt;]])&lt;/small&gt;
+! [[Radius]]&lt;br&gt;&lt;small&gt;([[Jupiter radius|R&lt;sub&gt;J&lt;/sub&gt;]])&lt;/small&gt;
+! [[Orbital period|Orbital&lt;br&gt;period]]&lt;br&gt;&lt;small&gt;([[day|d]])&lt;/small&gt;
+! [[Semimajor axis|Semimajor&lt;br&gt;axis]]&lt;br&gt;&lt;small&gt;([[Astronomical unit|AU]])&lt;/small&gt;
+! [[Orbital eccentricity|Ecc.]]
+! Discovery&lt;br&gt;year
+|- [[]]
+| [[GD 165]] || [[Boötes]] || {{RA|14|24|39.144}} || {{DEC|9|17|13.98}} || 14.6 || 103 || D4A+L4
+| B || 76.12 ±1.04&lt;ref name=&quot;Sanghi2023&quot; /&gt;|| 0.91&lt;ref name=&quot;Sanghi2023&quot; /&gt;|| || 123 || || 1988
+|-
+|[[GD 1400]]&lt;ref name=&quot;Farihi2004&quot;/&gt;&lt;ref name=&quot;Walters2023&quot;/&gt;
+|Cetus
+| {{Ra|01|47|21.82}}
+| {{Dec|-21|56|51.39}}
+|15.2
+|151
+|DA+L5.5
+|B
+|68 ±8
+|
+|0.416
+|0.009
+|
+|2004
+|-
+|[[WD 0137-349]]
+|[[Sculptor (constellation)|Sculptor]]
+| {{RA|01|39|43}}
+| {{DEC|-34|42|39}}
+|15.33
+|330
+|DA+L8
+|B
+|53
+|
+|0.0803
+|0.0030
+|0
+|2006
+|-
+|[[PHL 5038]]
+|Aquarius
+| {{RA|22|20|30.70}}
+| {{DEC|-00|41|07.5}}
+|17.3
+|240
+|DAZ+L8-9
+|B
+|73
+|
+|
+|66
+|
+|2006
+|-
+|[[SDSS 1035]] (mass transfer)&lt;ref name=&quot;Littlefair2006&quot;/&gt;
+|Sextans
+| {{Ra|10|35|33.03}}
+| {{Dec|+05|51|58.4}}
+|18.8
+|637
+|
+|B
+|54 ±2
+|
+|0.057
+|0.0029
+|
+|2006
+|-
+|[[OV Boötis]] (SDSS J1507, mass transfer)&lt;ref name=&quot;Littlefair2007&quot;/&gt;
+|Boötes
+| {{Ra|15|07|22.30}}
+| {{Dec|+52|30|39.8}}
+|18.5
+|692
+|DA+&gt;M9
+|B
+|59 ±1
+|
+|0.046
+|0.0025
+|
+|2007
+|-
+|[[SDSS 1501]] (mass transfer)&lt;ref name=&quot;Littlefair2008&quot;/&gt;
+|Draco
+| {{Ra|15|01|37.21}}
+| {{Dec|+55|01|23.28}}
+|18.8
+|1000
+|
+|B
+|56 ±3
+|
+|0.0568
+|0.0027
+|
+|2008
+|-
+|[[LSPM J1459+0851]]&lt;ref name=&quot;Day-Jones2011&quot;/&gt;
+|Boötes
+| {{Ra|14|59|32.07}}
+| {{Dec|+08|51|25.86}}
+|18.8
+|242
+|DA+T4.5
+|B
+|67-79
+|
+|
+|16,500-26,500
+|
+|2011
+|-
+|[[SDSS J08205+0008]]&lt;ref name=&quot;Schaffenroth2021&quot;/&gt;
+|Hydra
+| {{Ra|08|20|53.54}}
+| {{Dec|+00|08|43.50}}
+|15.2
+|5000
+|sdB
+|B
+|64-74
+|
+|0.0962
+|0.0033
+|
+|2011
+|-
+|[[WD 0837+185]]&lt;ref name=&quot;Casewell2021&quot;/&gt;
+|Cancer
+| {{Ra|08|40|13.30}}
+| {{Dec|+18|43|26.37}}
+|18.2
+|636
+|
+|B
+|25-30
+|
+|0.175
+|0.006
+|
+|2012
+|-
+|[[NLTT 5306]]&lt;ref name=&quot;Steele2013&quot;/&gt;&lt;ref name=&quot;Amaro2023&quot;/&gt;
+|Pisces
+| {{Ra|01|35|32.98}}
+| {{Dec|+14|45|55.90}}
+|16.6
+|258
+|DA+L3−L5
+|B
+|52 ±3
+|
+|0.07
+|0.002
+|
+|2013
+|-
+|[[SDSS J141126+200911]]&lt;ref name=&quot;Beuermann2013&quot;/&gt;&lt;ref name=&quot;Littlefair&quot;/&gt;
+|Boötes
+| {{Ra|14|11|26.22}}
+| {{Dec|+20|09|11.04}}
+|17.9
+|577
+|DA+L7-T1
+|B
+|52 ±2
+|
+|
+|0.003
+|
+|2013/2014
+|-
+|[[LSPM J0241+2553]]&lt;ref name=&quot;Sanghi2023&quot; /&gt;&lt;ref name=&quot;Deacon2014&quot; /&gt;
+|Aries
+| {{RA|02|41|49.28}}
+| {{DEC|+25|53|44.6}}
+|18.8
+|248.8
+|WD?+L1
+|B
+|52.30 ±27.44
+|1.11
+|
+|2153
+|
+|2014
+|-
+|[[PHL 1445]] (mass transfer)&lt;ref name=&quot;McAllister2015&quot;/&gt;
+|Cetus
+| {{Ra|02|42|42.91}}
+| {{Dec|-11|46|45.10}}
+|17.9
+|782
+|
+|B
+|67 ±5
+|
+|0.053
+|0.0026
+|
+|2015
+|-
+|[[V2008-1753]]&lt;ref name=&quot;Schaffenroth2015&quot;/&gt;
+|Capricornus
+| {{Ra|20|08|16.34}}
+| {{Dec|-17|53|10.63}}
+|17.1
+|8000
+|sdB
+|B
+|72 ±5
+|
+|0.0658
+|0.0026
+|
+|2015
+|-
+|[[SDSS J143317.78+101123.3|SDSS J1433]] (mass transfer)&lt;ref name=&quot;Littlefair2008&quot; /&gt;&lt;ref name=&quot;Hernández Santisteban2016&quot; /&gt;
+|Boötes
+| {{Ra|14|33|17.79}}
+| {{Dec|+10|11|23.49}}
+|18.9
+|760
+|WD+L1
+|B
+|58 ±8
+|
+|0.054
+|
+|
+|2008/2016
+|-
+|[[SDSS 1557]]
+|Serpens
+| {{Ra|15|57|20.77}}
+| {{Dec|+09|16|24.6}}
+|18.6
+|500
+|DAZ+L4
+|B
+|{{Val|66|5|7}}
+|
+|0.095
+|0.003
+|
+|2011/2017
+|-
+|[[HS 2231+2441]]&lt;ref name=&quot;Almeida2017&quot;/&gt;
+|Pegasus
+| {{Ra|22|34|21.48}}
+| {{Dec|+24|56|57.39}}
+|14.2
+|3000
+|sdB or WD
+|B
+|38 or 48
+|
+|0.11
+|0.0027 or 0.0031
+|
+|2017
+|-
+|[[SDSS J1205-0242]]&lt;ref name=&quot;Parsons2017&quot; /&gt;
+|Virgo
+| {{Ra|12|05|15.81}}
+| {{Dec|-02|42|22.75}}
+|18.4
+|2169
+|DA+L0
+|B
+|51 ±6
+|
+|0.049
+|0.002
+|
+|2017
+|-
+|[[SDSS J1057+2759]] (mass transfer)&lt;ref name=&quot;McAllister2017&quot;/&gt;
+|Leo Minor
+| {{Ra|10|57|54.25}}
+| {{Dec|+27|59|47.5}}
+|19.5
+|1100
+|
+|B
+|46 ±
+|
+|0.0628
+|0.0029
+|
+|2017
+|-
+|[[EPIC 212235321]]&lt;ref name=&quot;Casewell2018&quot;/&gt;
+|Aquarius
+| {{Ra|22|03|40.60}}
+| {{Dec|-12|15|11.94}}
+|17.5
+|1280
+|DAZ+L3
+|B
+|58
+|
+|0.047
+|0.002
+|
+|2018
+|-
+|[[QZ Librae]] (mass transfer)&lt;ref name=&quot;Pala2018&quot;/&gt;
+|Libra
+| {{Ra|15|36|15.98}}
+| {{Dec|-08|39|07.52}}
+|18.8
+|649
+|WD+T?
+|B
+|25-61
+|
+|0.064
+|
+|
+|2018
+|-
+|[[WD 1032+011]]&lt;ref name=&quot;Casewell2020&quot;/&gt;
+|Sextans
+| {{Ra|10|34|48.93}}
+| {{Dec|+00|52|01.37}}
+|19.2
+|1019
+|DA+L5
+|B
+|70 ±6
+|
+|0.0916
+|0.003
+|
+|2020
+|-
+|[[COCONUTS–1]]&lt;ref name=&quot;Zhang2020&quot; /&gt;
+|Perseus
+| {{RA|03|55|56.50}}
+| {{DEC|+45|25|10.3}}
+|17.2
+|102.6
+|DA+T4
+|B
+|65.9–70.9
+|
+|
+|1280
+|
+|2020
+|-
+|[[LSPM J0055+5948]]&lt;ref name=&quot;Meisner2020&quot; /&gt;
+|Cassiopeia
+| {{RA|00|55|58.30}}
+| {{DEC|+59|48|02.5}}
+|16.8
+|74.5
+|DC+T8
+|B
+|56 ±9
+|
+|
+|402
+|
+|2020
+|-
+|[[ZTF J0038+2030]]&lt;ref name=&quot;Roestel2021&quot;/&gt;
+|Pisces
+| {{Ra|00|38|55.00}}
+| {{Dec|+20|30|26.15}}
+|17.7
+|753
+|
+|B
+|62 ±4
+|
+|0.432
+|0.009
+|
+|2021
+|-
+|[[Gaia 0007−1605]]A&lt;ref name=&quot;Rebassa-Mansergas2022&quot;/&gt;
+|Cetus
+| {{Ra|00|07|34.82}}
+| {{Dec|-16|05|31.61}}
+|16.0
+|264
+|DA+L3
+|C
+|73
+|
+|1.0446
+|0.017
+|
+|2019/2022
+|-
+|[[NSC J0532-5124]]&lt;ref name=&quot;Kiwy2022&quot;/&gt;
+|Pictor
+| {{Ra|05|32|32.31}}
+| {{Dec|-51|24|50.75}}
+|20.0
+|551
+|WD+L3
+|B
+|76
+|
+|
+|508
+|
+|2022
+|-
+|[[NSC J1305-2247]]&lt;ref name=&quot;Kiwy2022&quot; /&gt;
+|Hydra
+| {{Ra|13|05|27.23}}
+| {{Dec|-22|47|28.44}}
+|20.5
+|469
+|WD+L3
+|B
+|76
+|
+|
+|716
+|
+|2022
+|-
+|[[BW Sculptoris]] (mass transfer)&lt;ref name=&quot;Neustroev2023&quot; /&gt;
+|Sculptor
+| {{Ra|23|53|00.87}}
+| {{Dec|-38|51|46.66}}
+|16.5
+|305
+|D+T
+|B
+|53.4 ±6.3
+|
+|0.054
+|0.0027
+|
+|1997/2023
+|-
+|[[SDSS J22255+0016]]&lt;ref name=&quot;French2023&quot; /&gt;
+|Aquarius
+| {{RA|22|25|51.65}}
+| {{DEC|+00|16|37.7}}
+|18.8
+|711
+|DA+L4
+|B
+|25–53
+|
+|
+|69
+|
+|2023
+|-
+|[[UCAC4 328–061594]]&lt;ref name=&quot;Rothermich2024&quot; /&gt;
+|Hydra
+| {{RA|10|10|47.91}}
+| {{DEC|-24|27|10.9}}
+|15.2
+|129.5
+|DC+T6
+|B
+|21
+|
+|
+|19,000
+|
+|2024
+|-
+|[[WD J060159.98–462534.40]]&lt;ref name=&quot;Rothermich2024&quot; /&gt;
+|Pictor
+| {{RA|06|01|59.98}}
+| {{DEC|-46|25|34.4}}
+|18.6
+|182.9
+|WD+L8
+|B
+|52
+|
+|
+|2900
+|
+|2024
+|-
+|[[WD J212231.86+660043.69]]&lt;ref name=&quot;Rothermich2024&quot; /&gt;
+|Cephus
+| {{RA|21|22|31.86}}
+| {{DEC|+66|00|43.7}}
+|15.9
+|176.0
+|WD+T5
+|B
+|63
+|
+|
+|28,000
+|
+|2024
+|-
+|[[WD J011001.84–592642.22]]&lt;ref name=&quot;Rothermich2024&quot; /&gt;
+|Tucana
+| {{RA|01|10|01.84}}
+| {{DEC|-59|26|42.2}}
+|20.6
+|358.0
+|WD+L2
+|B
+|73
+|
+|
+|1700
+|
+|2024
+|}
+
+==Unconfirmed brown dwarfs==
+{{Expand list|date=February 2011}}
+
+''Sorted by increasing [[right ascension]] of the parent star. Brown dwarfs within a system sorted by increasing [[orbital period]].''
+
+''Some brown dwarfs listed could still be massive planets.''
+
+{| class=&quot;wikitable sortable&quot; style=&quot;text-align:center&quot;
+|-
+! [[Star]]
+! [[Constellation]]
+! [[Right ascension|Right&lt;br&gt;ascension]]
+! [[Declination]]
+! [[Apparent magnitude|App.&lt;br&gt;mag.]]
+! [[Stellar distance|Distance]] &lt;small&gt;([[light-year|ly]])&lt;/small&gt;
+! [[Stellar classification|Spectral&lt;br&gt;type]]
+! [[Brown dwarf]]
+! [[Mass]]&lt;br&gt;&lt;small&gt;([[Jupiter mass|M&lt;sub&gt;J&lt;/sub&gt;]])&lt;/small&gt;
+! [[Radius]]&lt;br&gt;&lt;small&gt;([[Jupiter radius|R&lt;sub&gt;J&lt;/sub&gt;]])&lt;/small&gt;
+! [[Orbital period|Orbital&lt;br&gt;period]]&lt;br&gt;&lt;small&gt;([[day|d]])&lt;/small&gt;
+! [[Semimajor axis|Semimajor&lt;br&gt;axis]]&lt;br&gt;&lt;small&gt;([[Astronomical unit|AU]])&lt;/small&gt;
+! [[Orbital eccentricity|Ecc.]]
+! Discovery year
+
+|-
+| [[OGLE-TR-109]]|| [[Carina (constellation)|Carina]] || {{RA|10|53|41}} || {{DEC|–61|25|15}} || 15.8 || 8450 ||
+| b || &lt;14 || 0.9 || 0.589128 || 0.016 || || 2002
+|-
+| [[RU Lupi]] || [[Lupus (constellation)|Lupus]] || {{RA|15|56|42}} || {{DEC|–37|49|16}} || 10.5 || 400 || G5V:e
+| b || ≥27 || || 3.71 || 0.041 || 0.41 || 2007
+|-
+| [[CM Draconis]] || [[Draco (constellation)|Draco]] || {{RA|16|34|27}} || {{DEC|+57|09|00}} || 12.90 || 48 || M4
+| b || 64 || || 73 || 0.27 || || 1998
+|-
+| [[BD+20°2457]] || [[Leo (constellation)|Leo]] || {{RA|10|16|45}} || {{DEC|+19|53|29}} || 9.75 || 652 || K2II
+| [[BD+20°2457 b|b]] || 21.42 || || 379.63 || 1.45 || 0.15 || 2009
+|-
+| [[HD 3346]] || [[Andromeda (constellation)|Andromeda]] || {{RA|00|36|46}} || {{DEC|+44|29|19}} || 5.16 || 655.58 || K5III
+| c || 60 || || 650 || 2.5 || || 1996
+|-
+| [[HD 104304]] || [[Virgo (constellation)|Virgo]] || {{RA|12|00|44}} || {{DEC|−10|26|46}} || 5.54 || 42.1 || G9
+| b || 17.2 || || 2752 || || 0.38 || 2007
+|-
+| [[HD 154857]] || [[Ara (constellation)|Ara]] || {{RA|17|11|16}} || {{DEC|−56|40|51}} || 7.25 || 220 || G5V
+| [[HD 154857 c|c]] || 18.4 || || 2900 || || &gt;0.25 || 2007
+|-
+| [[Gliese 22|Gliese 22 B]] || [[Cassiopeia (constellation)|Cassiopeia]] || {{RA|00|32|27}} || {{DEC|+67|14|09}} || 10.38 || 326 || M2.5V
+| b || 16 || || ~5500 || || 0 || 2008
+|}
+
+== Field brown dwarfs ==
+
+{{Expand list|date=August 2019}}
+
+''Data updated from&lt;ref name=&quot;Filippazzo2015&quot; /&gt;&lt;ref name=&quot;Kirkpatrick2012&quot; /&gt;&lt;ref name=&quot;Mohanty2014&quot;/&gt; and merged from previous tables''
+
+{| class=&quot;wikitable sortable&quot; style=&quot;text-align:center&quot;
+|-
+! [[Brown dwarf]]
+! [[Constellation]]
+! [[Right ascension|Right&lt;br&gt;ascension]]
+! [[Declination]]
+! [[Apparent magnitude|App.&lt;br&gt;mag.]]
+! [[Stellar distance|Distance]] &lt;small&gt;([[light-year|ly]])&lt;/small&gt;
+! [[Stellar classification|Spectral&lt;br&gt;type]]
+! [[Mass]]&lt;br&gt;&lt;small&gt;([[Jupiter mass|M&lt;sub&gt;J&lt;/sub&gt;]])&lt;/small&gt;
+! [[Radius]]&lt;br&gt;&lt;small&gt;([[Jupiter radius|R&lt;sub&gt;J&lt;/sub&gt;]])&lt;/small&gt;
+! Discovery&lt;br&gt;year
+|-
+| {{ill|SDSS J000013.54+255418.6|de|2MASS J00001354+2554180}}||[[Pegasus (constellation)|Pegasus]]||{{RA|0|0|13.54}}||{{DEC|25|54|18}}||||46.1||T4.5||48||0.99||2004
+|-
+| 2MASS J00040288-6410358||[[Tucana]]||{{RA|0|4|2.88}}||{{DEC|-64|10|35.8}}||||192||L1γ||19||1.63||
+|-
+| LHS 102BC||[[Phoenix (constellation)|Phoenix]]||{{RA|0|4|34.84}}||{{DEC|-40|44|5.8}}||||||L5||||||2002
+|-
+| 2MASS J00242463-0158201||[[Pisces (constellation)|Pisces]]||{{RA|0|24|24.63}}||{{DEC|-1|58|20.1}}||||37.7||M9.5||79||1.09||
+|-
+| 2MASS J00250365+4759191AB||[[Cassiopeia (constellation)|Cassiopeia]]||{{RA|0|25|3.65}}||{{DEC|47|59|19.1}}||||143||L4||||||
+|-
+| 2MASS J00274197+0503417||[[Pisces (constellation)|Pisces]]||{{RA|0|27|41.97}}||{{DEC|5|3|41.7}}||||236||M9.5β||31||1.44||
+|-
+| 2MASS J00275592+2219328||[[Andromeda (constellation)|Andromeda]]||{{RA|0|27|55.92}}||{{DEC|22|19|32.8}}||||46.9||M8||||||
+|-
+| 2MASSW J0030300-145033||[[Cetus (constellation)|Cetus]]||{{RA|0|30|30.13}}||{{DEC|-14|50|33.3}}||||87.2||L7||54||0.98||n/a
+|-
+| {{ill|2MASS J00332386-1521309|de|2MASS J00332386-1521309}}||[[Cetus (constellation)|Cetus]]||{{RA|0|33|23.86}}||{{DEC|-15|21||30.9}}||||131||L1-L4β||29||1.43||n/a
+|-
+| 2MASS J00345157+0523050||[[Pisces (constellation)|Pisces]]||{{RA|0|34|51.57}}||{{DEC|5|23|5}}||||31||T6.5||42||0.94||n/a
+|-
+| [[2MASS 0036+1821]]||[[Pisces (constellation)|Pisces]]||{{RA|0|36|16.17}}||{{DEC|18|21|10.4}}||12.47||28.6||L3.5||42||0.94||2000
+|-
+| 2MASSW J0045214+163445||[[Pisces (constellation)|Pisces]]||{{RA|0|45|21.43}}||{{DEC|16|34|44.6}}||||57||L2β||23||1.62||n/a
+|-
+| {{ill|WISEP J004701.06+680352.1|fr|WISEP J004701.06+680352.1}}||[[Cassiopeia (constellation)|Cassiopeia]]||{{RA|0|47|0.38}}||{{DEC|68|3|54.3}}||||40||L7.5p||12||1.3||n/a
+|-
+| {{ill|2MASS J00501994-3322402|de|2MASS J00501994-3322402}}||[[Sculptor (constellation)|Sculptor]]||{{RA|0|50|19.94}}||{{DEC|-33|22|40.2}}||||34||T7||40||0.94||n/a
+|-
+| 2MASS J00034227-2822410||[[Sculptor (constellation)|Sculptor]]||{{RA|0|55|39.72}}||{{DEC|-28|22|42}}||||||M7.5||||||n/a
+|-
+| {{ill|2MASS J00584253-0651239|de|2MASS J00584253-0651239}}||[[Cetus (constellation)|Cetus]]||{{RA|0|58|42.53}}||{{DEC|-6|51|23.9}}||||96||L0β||29||1.43||n/a
+|-
+| [[CFBDS J005910.90–011401.3]]||[[Cetus (constellation)|Cetus]]||{{RA|0|59|10.83}}||{{DEC|-1|14|1.3}}||18.08||30||T8.5||23||||2013
+|-
+| 2MASSI J0103320+193536||[[Pisces (constellation)|Pisces]]||{{RA|1|3|32.03}}||{{DEC|19||35|36.1}}||||70||L6β||52||0.98||
+|-
+| {{ill|SDSSp J010752.33+004156.1|de|2MASS J01075242+0041563}}||[[Cetus (constellation)|Cetus]]||{{RA|1|7|52.42}}||{{DEC|-0|41|56.3}}||||51||L8||52||0.98||
+|-
+| {{ill|2MASSI J0117474-340325|de|2MASS J01174748-3403258}}||[[Sculptor (constellation)|Sculptor]]||{{RA|1|17|47.48}}||{{DEC|-34|3|25.8}}||||163||L2:||20||1.62||
+|-
+| {{ill|2MASS J01415823-4633574|de|2MASS J01415823-4633574}}||[[Phoenix (constellation)|Phoenix]]||{{RA|1|41|58.23}}||{{DEC|-46|33|57.4}}||||130||L0γ||20||1.61||
+|-
+| SDSS J015141.69+124429.6||[[Aries (constellation)|Aries]]||{{RA|1|51|41.55}}||{{DEC|12|44|30}}||||70||T1||47||0.97||
+|-
+| [[DENIS-P J020529.0−115925]]A||[[Cetus]]||{{RA|2|5|29.401}}||{{DEC|-11|59|29.67}}||||65||L5.5||||||1997
+|-
+| [[DENIS-P J020529.0−115925]]B||[[Cetus]]||{{RA|2|5|29.401}}||{{DEC|-11|59|29.67}}||||65||L8||||||1997
+|-
+| [[DENIS-P J020529.0−115925]]C||[[Cetus]]||{{RA|2|5|29.401}}||{{DEC|-11|59|29.67}}||||65||T0||||||1997
+|-
+| {{ill|SDSS J020742.48+000056.2|de|SDSS J020742.48+000056.2}}||[[Cetus]]||{{RA|2|7|42.84}}||{{DEC|-0|0|56.4}}||||111||T4.5||47||0.97||n/a
+|-
+| 2MASS J02103857-3015313||[[Fornax]]||{{RA|2|10|38.57}}||{{DEC|-30|15|31.3}}||||101||L0γ||15||1.53||n/a
+|-
+| 2MASS J02340093-6442068||[[Horologium (constellation)|Horologium]]||{{RA|2|34|0.93}}||{{DEC|-64|42|6.8}}||||155||L0γ||20||1.62||n/a
+|-
+| {{ill|2MASS J02411151-0326587|de|2MASS J02411151-0326587}}||[[Cetus]]||{{RA|2|41|11.51}}||{{DEC|-3|26|58.7}}||||152||L0γ||27||1.41||n/a
+|-
+| [[2MASS J02431371−2453298]]||[[Fornax]]||{{RA|2|43|13.71}}||{{DEC|-24|53|29.8}}||||35||T6||33||0.99||2002
+|-
+| LP 771-21||||{{RA|2|48|41}}||{{DEC|-16|51|21.6}}||||53||M8||78||1.08||n/a
+|-
+| 2MASS J02511327+0047364||[[Cetus]]||{{RA|2|51|13.27}}||{{DEC|-0|47|36.4}}||||||M8||||||n/a
+|-
+| 2MASS J02535980+3206373||[[Perseus (constellation)|Perseus]]||{{RA|2|53|59.8}}||{{DEC|32|6|37.3}}||||184||M7β||65||1.9||n/a
+|-
+| [[WISE J0254+0223]]||[[Cetus]]||{{RA|2|54|9.45}}||{{DEC|2|23|59.1}}||16.01||24||T8||65||1.9||n/a
+|-
+| [[DEN 0255-4700]]||[[Eridanus (constellation)|Eridanus]]||{{RA|2|55|3.57}}||{{DEC|−47|0|50.9}}||22.92||16.2||L8||80||0.97||2006
+|-
+| {{ill|2MASS J03185403-3421292|de|2MASS J03185403-3421292}}||[[Fornax]]||{{RA|3|18|54.03}}||{{DEC|-34|21|29.2}}||||45||L7||49||0.97||2008
+|-
+| 2MASS J03205965+1854233||[[Aries (constellation)|Aries]]||{{RA|3|20|59.65}}||{{DEC|18|54|23.3}}||||47||M8||88||1.15||n/a
+|-
+| 2MASS J03231002-4631237||[[Horologium (constellation)|Horologium]]||{{RA|3|23|10.02}}||{{DEC|-46|31|23.7}}||||192||L0γ||23||1.66||n/a
+|-
+| SDSS J032553.17+042540.1||[[Taurus (constellation)|Taurus]]||{{RA|3|25|53.22}}||{{DEC|4|25|40.6}}||||59||T5.5||45||0.95||n/a
+|-
+| {{ill|2MASS J03264225-2102057|de|2MASS J03264225-2102057}}||[[Eridanus (constellation)|Eridanus]]||{{RA|3|26|42.25}}||{{DEC|-21|2|5.7}}||||80||L5γ||18||1.3||2003
+|-
+| {{ill|2MASS J03284265+2302051|de|2MASS J03284265+2302051}}||[[Taurus (constellation)|Taurus]]||{{RA|3|28|42.65}}||{{DEC|23|2|5.1}}||||98||L8||54||0.98||2000
+|-
+| 2MASS J03341218-4953322||||{{RA|3|34|12.18}}||{{DEC|-49|53|32.2}}||||27.0||M9||73||1.04||n/a
+|-
+| [[LP 944-20]]||[[Fornax]]||{{RA|3|39|35.22}}||{{DEC|−35|25|44}}||10.725||20.9||M9β||73||1.43||n/a
+|-
+| [[2MASP J0345432+254023]]||||{{RA|3|45|43.16}}||{{DEC|25|40|23.3}}||||88||L0||74||1.05||1997
+|-
+| [[Teide 1]]||[[Taurus (constellation)|Taurus]]||{{RA|3|47|18}}||{{DEC|+24|22|31}}||||380||M8||55||3.78||1995
+|-
+| 2MASS J03510004-0052452||||{{RA|3|51|0.04}}||{{DEC|-0|52|45.2}}||||48||M8||102||1.27||n/a
+|-
+| [[2MASS J03552337+1133437]]||[[Taurus (constellation)|Taurus]]||{{RA|3|55|23.37}}||{{DEC|11|33|43.7}}||14.05||29.8||L5γ||20||1.32||2006
+|-
+| {{ill|DENIS-P J035726.9-441730|de|DENIS-P J035726.9−441730}}||[[Horologium (constellation)|Horologium]]||{{RA|3|57|26.95}}||{{DEC|-44|17|30.5}}||14.37||130||L0β||||||n/a
+|-
+| [[2MASS J04151954−0935066]]||[[Eridanus (constellation)|Eridanus]]||{{RA|4|15|19.54}}||{{DEC|-9|35|6.6}}||15.7||18.6||T8||30||0.95||2002
+|-
+| {{ill|SDSSp J042348.57-041403.5|de|SDSS J042348.57−041403.5}}||[[Eridanus (constellation)|Eridanus]]||{{RA|4|23|48.58}}||{{DEC|-4|14|3.5}}||14.5||50||L7.5||||||2002
+|-
+| {{ill|2MASS J04285096-2253227|de|2MASS J04285096-2253227}}||[[Eridanus (constellation)|Eridanus]]||{{RA|4|28|50.96}}||{{DEC|-22|53|22.7}}||||85||L0.5||80||1.09||2003
+|-
+| 2MASS J04351612-1606574||||{{RA|4|35|16.13}}||{{DEC|-16|6|57.5}}||||34||M7||100||1.26||n/a
+|-
+| 2MASS J04362788-4114465||||{{RA|4|36|27.88}}||{{DEC|-41|14|46.5}}||||142||M8βγ||39||1.97||n/a
+|-
+| {{ill|2MASS J04390101-2353083|de|2MASS J04390101-2353083}}||[[Eridanus (constellation)|Eridanus]]||{{RA|4|39|1.01}}||{{DEC|-23|53|8.3}}||||29.5||L6.5||48||0.97||2003
+|-
+| [[2MASS J04414489+2301513]]||||{{RA|4|41|44.9}}||{{DEC|23|1|58.07}}||||470||M8.5||19||||2010
+|-
+| 2MASS J04433764+0002040||||{{RA|4|43|37.61}}||{{DEC|-0|2|5.1}}||||82||M9γ||22||1.78||n/a
+|-
+| {{ill|2MASS J04455387-3048204|de|2MASS J04455387-3048204}}||[[Caelum]]||{{RA|4|45|53.87}}||{{DEC|-30|48|20.4}}||||42||L2||64||1.00||2003
+|-
+| {{ill|2MASS J04510093-3402150|de|2MASS J04510093-3402150}}||[[Caelum]]||{{RA|4|51|0.93}}||{{DEC|-34|2|15}}||||69||L0.5||72||1.04||2003
+|-
+| {{ill|2MASS J05002100+0330501|de|2MASS J05002100+0330501}}||[[Orion (constellation)|Orion]]||{{RA|5|0|21}}||{{DEC|3|30|50.1}}||||44||L4||64||1.00||2008
+|-
+| {{ill|2MASS J05012406-0010452|de|2MASS J05012406-0010452}}||[[Orion (constellation)|Orion]]||{{RA|5|1|24.06}}||{{DEC|-0|10|45.2}}||||64||L4γ||21||1.38||2008
+|-
+| {{ill|2MASS J05160945-0445499|de|2MASS J05160945-0445499}}||[[Orion (constellation)|Orion]]||{{RA|5|16|9.45}}||{{DEC|-4|45|49.9}}||||73||T5.5||47||0.97||2003
+|-
+| [[2MASS J0523−1403]]||[[Lepus (constellation)|Lepus]]||{{RA|5|23|38.22}}||{{DEC|-14|3|2.2}}||||40||L2.5||68||1.01||n/a
+|-
+| [[2MASS 0532+8246]]||[[Camelopardalis]]||{{RA|5|32|53.46}}||{{DEC|82|46|46.5}}||||81||L7||83||||2018
+|-
+| SDSS J053951.99-005902.0||||{{RA|5|39|52}}||{{DEC|-0|59|1.9}}||21.05||41.62||L5||61||1.01||n/a
+|-
+| {{ill|2MASS J05591914-1404488|de|2MASS J05591914-1404488}}||[[Lepus (constellation)|Lepus]]||{{RA|5|59|19.14}}||{{DEC|-14|4|48.8}}||||34||T4.5||||||2000
+|-
+| {{ill|LSR 0602+3910|de|LSR 0602+3910}}||[[Auriga (constellation)|Auriga]]||{{RA|6|2|30.45}}||{{DEC|39|10|59.2}}||20.88||34.6||L1β||28||1.41||2003
+|-
+| 2MASS J06085283-2753583||||{{RA|6|8|52.83}}||{{DEC|-27|53|58.3}}||||102||M8.5γ||38||1.51||n/a
+|-
+| WISEP J061135.13-041024.0A||||{{RA|6|11|35.12}}||{{DEC|-4|10|24}}||||69||L9||65||||2014
+|-
+| WISEP J061135.13-041024.0B||||{{RA|6|11|35.12}}||{{DEC|-4|10|24}}||||69||T1.5||53||||2014
+|-
+| {{ill|2MASS J06244595-4521548|de|2MASS J06244595-4521548}}||[[Puppis]]||{{RA|6|24|45.95}}||{{DEC|-45|21|54.8}}||||39||L5||56||0.99||2008
+|-
+| {{ill|2MASS J06411840-4322329|de|2MASS J06411840-4322329}}||[[Puppis]]||{{RA|6|41|18.4}}||{{DEC|-43|22|32.9}}||||65||L1.5||67||1.01||2008
+|-
+| {{ill|DENIS-P J0652197-253450|de|2MASS J06521977-2534505}}||[[Canis Major]]||{{RA|6|52|19.77}}||{{DEC|-25|34|50.5}}||||51||L0||75||1.05||2008
+|-
+| {{ill|2MASS J07003664+3157266|de|2MASS J07003664+3157266}}||[[Gemini (constellation)|Gemini]]||{{RA|7|0|36.64}}||{{DEC|31|57|26.6}}||||40||L3.5:||||||2003
+|-
+| 2MASS J07075327-4900503||||{{RA|7|7|53.27}}||{{DEC|-49|0|50.3}}||||60||M9||72||1.03||n/a
+|-
+| [[UGPS J072227.51-054031.2]]||[[Monoceros (constellation)|Monoceros]]||{{RA|7|22|27.6}}||{{DEC|−05|40|38.4}}||||13.4||T9||26||0.98||2010
+|-
+| {{ill|2MASSI J0727182+171001|de|2MASS J07271824+1710012}}||[[Gemini (constellation)|Gemini]]||{{RA|7|27|18.24}}||{{DEC|17|10|1.2}}||||29.6||T7||41||0.94||2002
+|-
+| {{ill|2MASS J07290002-3954043|de|2MASS J07290002-3954043}}||[[Puppis]]||{{RA|7|29|0.02}}||{{DEC|-39|54|4.4}}||||25.8||T8 pec||37||0.94||2007
+|-
+| {{ill|SDSS J074201.41+205520.5|de|2MASS J07420130+2055198}}||[[Gemini (constellation)|Gemini]]||{{RA|7|42|1.3}}||{{DEC|20|55|19.8}}||||49||T5||43||0.94||2004
+|-
+| {{ill|2MASS J0746425+200032|fr|2MASS J07464256+2000321}}||[[Gemini (constellation)|Gemini]]||{{RA|7|46|42.56}}||{{DEC|20|0|32.1}}||||49.6||L0.5||||||1999
+|-
+| {{ill|DENIS-P J0751164-253043|de|2MASS J07511645-2530432}}||[[Puppis]]||{{RA|7|51|16.45}}||{{DEC|-25|30|43.2}}||||55||L2.5||71||1.03||2008
+|-
+| 2MASS J07522390+1612157||||{{RA|7|52|23.9}}||{{DEC|16|12|15.7}}||||60||M7βγ||68||2.01||
+|-
+| [[DENIS J081730.0-615520]]||[[Carina (constellation)|Carina]]||{{RA|8|17|30.01}}||{{DEC|−61|55|15.8}}||13.6||16.1||T6||44||0.94||2010
+|-
+| [[DENIS J082303.1−491201]]A||[[Vela (constellation)|Vela]]||{{RA|8|23|3.13}}||{{DEC|−49|12|1.3}}||||67||L1.5||44||||2006
+|-
+| [[DENIS J082303.1−491201]]B||[[Vela (constellation)|Vela]]||{{RA|8|23|3.13}}||{{DEC|−49|12|1.3}}||||67||L5.5||28||||2006
+|-
+| {{ill|2MASS J08251968+2115521|de|2MASS J08251968+2115521}}||[[Cancer (constellation)|Cancer]]||{{RA|8|25|19.68}}||{{DEC|21|15|52.1}}||||35||L7.5||52||0.98||2000
+|-
+| {{ill|SDSSp J083008.12+482847.4|de|2MASS J08300825+4828482}}||[[Lynx (constellation)|Lynx]]||{{RA|8|30|8.25}}||{{DEC|48|28|48.2}}||||43||L8||48||0.99||2002
+|-
+| LHS 2021||||{{RA|8|30|32.56}}||{{DEC|9|47|15.4}}||||55||M6.5||88||1.15||
+|-
+| {{ill|SDSS J083048.80+012831.1|de|2MASS J08304878+0128311}}||[[Hydra (constellation)|Hydra]]||{{RA|8|30|48.78}}||{{DEC|1|28|31.1}}||||77||T4.5||46||0.96||2004
+|-
+| {{ill|2MASSI J0835425-081923|de|2MASS J08354256-0819237}}||[[Hydra (constellation)|Hydra]]||{{RA|8|35|42.56}}||{{DEC|-8|19|23.7}}||||23.53||L5||62||1.00||2003
+|-
+| {{ill|2MASSI J0847287-153237|de|2MASS J08472872-1532372}}||[[Hydra (constellation)|Hydra]]||{{RA|8|47|28.72}}||{{DEC|-15|32|37.2}}||||43||L2||64||1.00||2003
+|-
+| 2MASS J08533619-0329321||||{{RA|8|53|36.19}}||{{DEC|-3|29|32.1}}||||27.6||M9||77||1.07||
+|-
+| {{ill|2MASSI J0859254-194926|de|2MASS J08592547-1949268}}||[[Pyxis]]||{{RA|8|59|25.47}}||{{DEC|-19|49|26.8}}||||50||L6||50||0.98||2003
+|-
+| {{ill|2MASSW J0920122+351742|de|2MASSW J0920122+351742}}||[[Lynx (constellation)|Lynx]]||{{RA|9|20|12.23}}||{{DEC|35|17|42.9}}||||95||L6.5||||||2000
+|-
+| [[2MASSI J0937347+293142]]||[[Leo (constellation)|Leo]]||{{RA|9|37|34.87}}||{{DEC|29|31|40.9}}||||20.0||T6p||42||0.94||2002
+|-
+| [[2MASS 0939−2448]]||[[Antlia]]||{{RA|9|39|35.48}}||{{DEC|-24|48|27.9}}||16.83||17.4||T8||32||0.95||2005
+|-
+| {{ill|2MASS J09490860-1545485|de|2MASS J09490860-1545485}}||[[Hydra (constellation)|Hydra]]||{{RA|9|49|8.6}}||{{DEC|-15|45|48.5}}||||59||T2||49||0.96||2005
+|-
+| 2MASS J10073369-4555147||||{{RA|10|7|33.69}}||{{DEC|-45|55|14.7}}||||46||T5||44||0.94||
+|-
+| {{ill|2MASSI J1010148-040649|de|2MASS J10101480-0406499}}||[[Sextans]]||{{RA|10|10|14.8}}||{{DEC|-4|6|49.9}}||||55||L6||51||0.98||2003
+|-
+| {{ill|2MASSI J1017075+130839|de|2MASS J10170754+1308398}}||[[Leo (constellation)|Leo]]||{{RA|10|17|7.54}}||{{DEC|13|8|39.8}}||17.4||108||L2:||||||2003
+|-
+| SDSS J102109.69-030420.1||||{{RA|10|21|9.69}}||{{DEC|-3|4|19.7}}||||95||T3||||||
+|-
+| {{ill|2MASS J10224821+5825453|de|2MASS J10224821+5825453}}||[[Ursa Major]]||{{RA|10|22|48.21}}||{{DEC|58|25|45.3}}||||60||L1β||27||1.41||2008
+|-
+| {{ill|2MASSW J1036530-344138|de|2MASS J10365305-3441380}}||[[Antlia]]||{{RA|10|36|53.05}}||{{DEC|-34|41|38}}||||53||L6||49||0.97||2002
+|-
+| {{ill|2MASS J1047538+212423|de|2MASS J10475385+2124234}}||[[Leo (constellation)|Leo]]||{{RA|10|47|53.85}}||{{DEC|21|24|23.4}}||15.8||34.4||T6.5||42||0.94||1999
+|-
+| [[Luhman 16]]B||[[Vela (constellation)|Vela]]||{{RA|10|49|18.91}}||{{DEC|-53|19|10}}||||6.516||T1||43||1.02||2013
+|-
+| [[Luhman 16]]A||[[Vela (constellation)|Vela]]||{{RA|10|49|18.91}}||{{DEC|-53|19|10}}||||6.516||L8||40||1.01||2013
+|-
+| [[DENIS-P J1058.7−1548]]||[[Crater (constellation)|Crater]]||{{RA|10|58|47.87}}||{{DEC|-15|48|17.2}}||14.155||49||L3||64||1.00||1997
+|-
+| TWA 28||||{{RA|11|2|9.83}}||{{DEC|-34|30|35.5}}||||180||M8.5γ||36||2.39||
+|-
+| [[Cha 110913-773444]]||[[Chamaeleon]]||{{RA|11|9|14}}||{{DEC|–77|34|45}}||21.59||163||L||8||1.8||2005
+|-
+| [[OTS 44]]||[[Chamaeleon]]||{{RA|11|10|12}}||{{DEC|–76|32|13}}||||554||M9.5V||15||||2005
+|-
+| SDSS J111010.01+011613.1||||{{RA|11|10|10.01}}||{{DEC|1|16|13}}||||63||T5.5p||9||1.24||
+|-
+| [[2MASS J11145133−2618235]]||[[Hydra (constellation)|Hydra]]||{{RA|11|14|51.33}}||{{DEC|-26|18|23.5}}||15.86||18.2||T7.5||33||0.96||2005
+|-
+| TWA 26||||{{RA|11|39|51.14}}||{{DEC|-31|59|21.5}}||||137||M9γ||30||2.20||
+|-
+| 2MASSW J1146345+223053||||{{RA|11|46|34.49}}||{{DEC|22|30|52.7}}||||89||L3||||||
+|-
+| {{ill|2MASS J11544223-3400390|de|2MASS J11544223-3400390}}||[[Hydra (constellation)|Hydra]]||{{RA|11|54|42.23}}||{{DEC|-34|0|39}}||14.2||129||L0β||37||1.50||2003
+|-
+| {{ill|2MASSW J1155395-372735|de|2MASS J11553952-3727350}}||[[Centaurus]]||{{RA|11|55|39.52}}||{{DEC|-37|27|35}}||12.8||31||L2||64||1.00||2002
+|-
+| TWA 27A||||{{RA|12|7|33.46}}||{{DEC|-39|32|54}}||||||M8||||||
+|-
+| TWA 27B|| ||{{RA|12|7|33.5}}||{{DEC|-39|32|54.4}}||||||M8γ||||||
+|-
+| 2MASS J12074836-3900043||||{{RA|12|7|48.36}}||{{DEC|-39|0|4.4}}||||217||L0γ||17||1.71||n/a
+|-
+| {{ill|2MASSI J1217110-031113|de|2MASS J12171110-0311131}}||[[Virgo (constellation)|Virgo]]||{{RA|12|17|11.1}}||{{DEC|-3|11|13.1}}||15.86||36||T7.5||42||0.94||1999
+|-
+| 2MASS J12255432-2739466||||{{RA|12|25|54.32}}||{{DEC|-27|39|46.6}}||||43||T6||||||n/a
+|-
+| [[DENIS-P J1228.2-1547]]||[[Corvus (constellation)|Corvus]]||{{RA|12|28|15.23}}||{{DEC|-15|47|34.2}}||14.38||66||L5||||||1999
+|-
+| [[2M 1237+6526]]||[[Draco (constellation)|Draco]]||{{RA|12|37|39.19}}||{{DEC|65|26|14.8}}||16.05||45.6||T6.5||41||0.94||2003
+|-
+| {{ill|2MASSW J1239272+551537|de|2MASS J12392727+5515371}}||[[Ursa Major]]||{{RA|12|39|27.27}}||{{DEC|55|15|37.1}}||14.7||119||L5||||||2000
+|-
+| TWA 29||||{{RA|12|45|14.16}}||{{DEC|-44|29|7.7}}||||262||M9.5||25||2.00||n/a
+|-
+| {{ill|SDSSp J125453.90-012247.4|de|SDSSp J125453.90−012247.4}}||[[Virgo (constellation)|Virgo]]||{{RA|12|54|53.93}}||{{DEC|-1|22|47.4}}||14.9||38||T2||47||0.98||2000
+|-
+| [[Kelu-1]]A||[[Hydra (constellation)|Hydra]]||{{RA|13|5|40.2}}||{{DEC|-25|41|6}}||||61||L2||63||0.98||1997
+|-
+| [[Kelu-1]]B||[[Hydra (constellation)|Hydra]]||{{RA|13|5|40.2}}||{{DEC|-25|41|6}}||||61||L4||58||0.98||1997
+|-
+| 2MASS J13204427+0409045||||{{RA|13|20|44.27}}||{{DEC|4|9|4.5}}||||101||L3:||67||1.01||n/a
+|-
+| {{ill|SDSSp J132629.82-003831.5|de|2MASS J13262981-0038314}}||[[Virgo (constellation)|Virgo]]||{{RA|13|26|29.81}}||{{DEC|-0|38|31.4}}||16.1||65||L8:||51||0.97||2000
+|-
+| {{ill|SDSSp J134646.45-003150.4|de|2MASS J13464634-0031501}}||[[Virgo (constellation)|Virgo]]||{{RA|13|46|46.34}}||{{DEC|-0|31|50.1}}||16||48||T6.5||44||0.94||2000
+|-
+| 2MASS J13595510-4034582||||{{RA|13|59|55.1}}||{{DEC|-40|34|58.2}}||||51||L1||63||1.00||n/a
+|-
+| ULAS J141623.94+134836.3||||{{RA|14|16|23.94}}||{{DEC|13|48|36.3}}||||29.7||T7.5p||32||0.96||n/a
+|-
+| {{ill|SDSS J141659.78+500626.4|de|2MASS J14165987+5006258}}||[[Boötes]]||{{RA|14|16|59.86}}||{{DEC|50|6|25.8}}||22||149||L4.5||59||0.99||2006
+|-
+| {{ill|DENIS-P J142527.97-365023.4|de|2MASS J14252798-3650229}}||[[Centaurus]]||{{RA|14|25|27.98}}||{{DEC|-36|50|22.9}}||14||38||L3:||21||1.32||2004
+|-
+| [[LHS 2924]]||[[Boötes]]||{{RA|14|28|43.23}}||{{DEC|+33|10|39.1}}||19.74||38.5||M9V||76||1.06||
+|-
+| 2MASS J14392837+1929150||||{{RA|14|39|28.36}}||{{DEC|19|29|14.9}}||||47||L1||72||1.03||n/a
+|-
+| LSPM J1440+1339||||{{RA|14|40|22.93}}||{{DEC|13|39|23}}||||72||M8||92||1.19||n/a
+|-
+| {{ill|2MASS J14482563+1031590|de|2MASS J14482563+1031590}}||[[Boötes]]||{{RA|14|48|25.63}}||{{DEC|10|31|59}}||15||47||L4:||59||0.99||2003
+|-
+| [[CFBDSIR 1458+10]]A||[[Boötes]]||{{RA|14|58|29.0}}||{{DEC|+10|13|43}}||19.83||104||T9||11.1||1.5||2010
+|-
+| [[CFBDSIR 1458+10]]B||[[Boötes]]||{{RA|14|58|29.0}}||{{DEC|+10|13|43}}||21.85||104||Y0||9||1.3||2010
+|-
+| [[TVLM 513-46546]]||[[Boötes]]||{{RA|15|1|8.18}}||{{DEC|+22|50|2}}||15.09||35.1||M8.5V||75||1.05||n/a
+|-
+| [[2MASS 1503+2525]]||[[Boötes]]||{{RA|15|3|19.61}}||{{DEC|25|25|19.6}}||||20.7||T5||44||0.94||2003
+|-
+| CFBDS J150411+102717||||{{RA|15|4|11.64}}||{{DEC|10|27|18.4}}||||71||T7||44||0.94||n/a
+|-
+| {{ill|2MASSW J1506544+132106|de|2MASS J15065441+1321060}}||[[Boötes]]||{{RA|15|6|54.41}}||{{DEC|13|21|6}}||13||46||L3||69||1.02||2000
+|-
+| [[2MASS 1507−1627]]||[[Libra (constellation)|Libra]]||{{RA|15|7|47.69}}||{{DEC|-16|27|38.6}}||19||23.9||L5||60||0.99||2000
+|-
+| TVLM 868-110639||||{{RA|15|10|16.85}}||{{DEC|-2|41|7.8}}||||53||M9||79||1.08||n/a
+|-
+| {{ill|SDSS J151114.66+060742.9|de|2MASS J15111466+0607431}}||[[Serpens]]||{{RA|15|11|14.66}}||{{DEC|6|7|43.1}}||25||89||T2||||||2006
+|-
+| {{ill|2MASSW J1515008+484742|de|2MASS J15150083+4847416}}||[[Boötes]]||{{RA|15|15|0.83}}||{{DEC|48|47|41.6}}||14||34||L6||57||0.99||2003
+|-
+| {{ill|2MASSI J1526140+204341|de|2MASS J15261405+2043414}}||[[Serpens]]||{{RA|15|26|14.05}}||{{DEC|20|43|41.4}}||16||67||L7||54||0.98||2000
+|-
+| {{ill|DENIS-P J153941.96-052042.4|de|2MASS J15394189-0520428}}||[[Libra (constellation)|Libra]]||{{RA|15|39|41.89}}||{{DEC|-5|20|42.8}}||14||51||L4||63||1.00||2004
+|-
+| {{ill|2MASS J15462718-3325111|de|2MASS J15462718-3325111}}||[[Lupus (constellation)|Lupus]]||{{RA|15|46|27.19}}||{{DEC|-33|25|11.2}}||16||37||T5.5||44||0.94||2002
+|-
+| {{ill|2MASSW J1552591+294849|de|2MASS J15525906+2948485}}||[[Corona Borealis]]||{{RA|15|52|59.06}}||{{DEC|29|48|48.5}}||13||68||L0β||30||1.43||2003
+|-
+| {{ill|2MASSW J1555157-095605|de|2MASS J15551573-0956055}}||[[Libra (constellation)|Libra]]||{{RA|15|55|15.73}}||{{DEC|-9|56|5.5}}||13||44||L1||71||1.03||2002
+|-
+| {{ill|2MASS J16150413+1340079|de|2MASS J16150413+1340079}}||[[Hercules (constellation)|Hercules]]||{{RA|16|15|4.13}}||{{DEC|13|40|7.9}}||16||48||T6||42||0.94||2007
+|-
+| {{ill|SDSSp J162414.37+002915.6|de|2MASS J16241436+0029158}}||[[Serpens]]||{{RA|16|24|14.36}}||{{DEC|0|29|15.8}}||||36||T6||43||0.94||1999
+|-
+| {{ill|2MASS J16262034+3925190|de|2MASS J16262034+3925190}}||[[Hercules (constellation)|Hercules]]||{{RA|16|26|20.34}}||{{DEC|39|25|19}}||14.44||110||L4sd||71||1.03||2004
+|-
+| {{ill|2MASSW J1632291+190441|de|2MASS J16322911+1904407}}||[[Hercules (constellation)|Hercules]]||{{RA|16|32|29.11}}||{{DEC|19|4|40.7}}||22||50||L8||49||0.97||1999
+|-
+| WISEPA J164715.59+563208.2||||{{RA|16|47|15.59}}||{{DEC|56|32|8.2}}||||28||L9p||41||0.94||n/a
+|-
+| {{ill|LSPM J1658+7027|de|2MASS J16580380+7027015}}||[[Draco (constellation)|Draco]]||{{RA|16|58|3.8}}||{{DEC|70|27|1.5}}||19||60||L1||73||1.04||2000
+|-
+| 2MASSI J1726000+153819||||{{RA|17|26|0.07}}||{{DEC|15|38|19}}||||114||L3β||24||1.40||n/a
+|-
+| 2MASSW J1728114+394859||||{{RA|17|28|11.5}}||{{DEC|39|48|59.3}}||||79||L7||||||n/a
+|-
+| SDSSp J175032.96+175903.9||||{{RA|17|50|32.93}}||{{DEC|17|59|4.2}}||||90||T3.5||47||0.97||n/a
+|-
+| 2MASS J18283572-4849046||||{{RA|18|28|35.72}}||{{DEC|-48|49|4.6}}||||39||T5.5||45||0.95||n/a
+|-
+| [[LSR J1835+3259]]||[[Lyra]]||{{RA|18|35|37.9}}||{{DEC|32|59|54.5}}||18.27||18.5||M8.5||77||1.07||2003
+|-
+| 2MASSW J1841086+311727||||{{RA|18|41|8.61}}||{{DEC|31|17|27.9}}||||138||L4p||67||1.01||n/a
+|-
+| 2MASS J18432213+4040209||||{{RA|18|43|22.13}}||{{DEC|40|40|20.9}}||||46||M8||96||1.22||n/a
+|-
+| 2MASS J20004841-7523070||||{{RA|20|0|48.41}}||{{DEC|-75|23|7}}||||105||M9γ||25||1.88||n/a
+|-
+| SDSS J204749.61-071818.3||||{{RA|20|47|49.59}}||{{DEC|-7|18|18.2}}||||65||T0:||46||0.96||n/a
+|-
+| 2MASSI J2057540-025230||||{{RA|20|57|54.09}}||{{DEC|-2|52|30.2}}||||47||L1.5||70||1.02||n/a
+|-
+| 2MASSW J2101154+175658||||{{RA|21|1|15.44}}||{{DEC|17|56|58.6}}||||108||L7.5||||||n/a
+|-
+| 2MASSI J2104149-103736||||{{RA|21|4|14.91}}||{{DEC|-10|37|36.9}}||||62||L2.5||69||1.02||n/a
+|-
+| [[PSO J318.5−22]]||[[Capricornus]]||{{RA|21|14|8.02}}||{{DEC|-22|51|35.8}}||||80||L7VL-G||6.5||1.53||2013
+|-
+| HB 2124-4228||||{{RA|21|27|26.13}}||{{DEC|-42|15|18.3}}||||113||M7.5||94||1.21||n/a
+|-
+| [[2MASS J21392676+0220226]]||[[Aquarius (constellation)|Aquarius]]||{{RA|21|39|26.77}}||{{DEC|2|20|22.7}}||14.71||32.1||T1.5||46||0.96||n/a
+|-
+| 2MASS J21481628+4003593||||{{RA|21|48|16.33}}||{{DEC|40|3|59.4}}||||26.3||L6||55||0.99||n/a
+|-
+| 2MASS J14112131-2119503||||{{RA|21|50|19.5}}||{{DEC|-21|19|50}}||||||M9β||||||n/a
+|-
+| 2MASSW J2206450-421721||||{{RA|22|6|44.98}}||{{DEC|-42|17|20.8}}||||93||L4γ||22||1.33||n/a
+|-
+| 2MASSW J2208136+292121||||{{RA|22|8|13.63}}||{{DEC|29|21|21.5}}||||154||L3γ||27||1.41||n/a
+|-
+| 2MASSW J2224438-015852||||{{RA|22|24|43.81}}||{{DEC|-1|58|52.1}}||||38||L4.5||61||0.99||n/a
+|-
+| [[2MASS J22282889-4310262]]||[[Grus (constellation)|Grus]]||{{RA|22|28|28.89}}||{{DEC|-43|10|26.2}}||15.66||35||T6||42||0.94||2013
+|-
+| 2MASS J22373255+3922398||||{{RA|22|37|32.55}}||{{DEC|39|22|39.8}}||||64||M9.5||73||1.04||n/a
+|-
+| 2MASSW J2244316+204343||||{{RA|22|44|31.67}}||{{DEC|20|43|43.3}}||||56||L6.5||12||1.29||n/a
+|-
+| 2MASS J23224684-3133231||||{{RA|23|22|46.84}}||{{DEC|-31|33|23.1}}||||56||L0β||24||1.39||n/a
+|-
+| 2MASS J23225299-6151275||||{{RA|23|22|52.99}}||{{DEC|-61|51|27.5}}||||148||L2γ||17||1.59||n/a
+|-
+| 2MASS J23515044-2537367||||{{RA|23|51|50.44}}||{{DEC|-25|37|36.7}}||||67||M8||88||1.16||n/a
+|-
+| 2MASSI J2356547-155310||||{{RA|23|56|54.77}}||{{DEC|-15|53|11.1}}||||74||T5.5||80||1.09||n/a
+|-
+| [[WISE 0005+3737]]||[[Andromeda (constellation)|Andromeda]]||{{RA|0|5|17.48}}||{{DEC|37|37|20.5}}||18.33||23.2||T9||||||2010
+|-
+| WISE 0008-1739||[[Cetus]]||{{RA|0|8|49.75}}||{{DEC|-17|39|23.63}}||17.03||87.1||T6||||||2010
+|-
+| WISE 0015-4615||[[Phoenix (constellation)|Phoenix]]||{{RA|0|15|5.87}}||{{DEC|-46|15|17.6}}||||48.6||T8||||||2010
+|-
+| WISE 0031-3840||[[Sculptor (constellation)|Sculptor]]||{{RA|0|31|19.78}}||{{DEC|-38|40|36.3}}||14.1||71.8||L2 pec||||||2010
+|-
+| WISE 0032-4946||[[Phoenix (constellation)|Phoenix]]||{{RA|0|32|31.09}}||{{DEC|-49|46|51.4}}||||62.9||T8.5||||||2010
+|-
+| WISE 0038+2758||[[Andromeda (constellation)|Andromeda]]||{{RA|0|38|29.05}}||{{DEC|27|58|52.1}}||||36.9||T9||||||2010
+|-
+| WISE 0038+8405||[[Cepheus (constellation)|Cepheus]]||{{RA|0|38|30.54}}||{{DEC|84|5|17.7}}||||101.8||T6||||||2010
+|-
+| WISE 0040+0900||[[Pisces (constellation)|Pisces]]||{{RA|0|40|24.88}}||{{DEC|9|0|54.8}}||||47.6||T7||||||2010
+|-
+| WISE 0049+0441||[[Pisces (constellation)|Pisces]]||{{RA|0|49|28.48}}||{{DEC|4|40|59.82}}||15.85||62.6||L9||||||2010
+|-
+| [[WISE 0049+2151]]||[[Andromeda (constellation)|Andromeda]]||{{RA|0|49|45.61}}||{{DEC|21|51|20.0}}||||24.1||T8.5||||||2010
+|-
+| WISE 0106+1518||[[Pisces (constellation)|Pisces]]||{{RA|1|6|37.05}}||{{DEC|15|18|52.57}}||14.36||142.9||M8 pec||||||2010
+|-
+| WISE 0123+4142||[[Andromeda (constellation)|Andromeda]]||{{RA|1|23|33.28}}||{{DEC|41|42|4.52}}||17.38||67.2||T7||||||2010
+|-
+| WISE 0135+1715||[[Pisces (constellation)|Pisces]]||{{RA|1|35|25.64}}||{{DEC|17|15|3.4}}||||77.3||T6||||||2010
+|-
+| [[WISE 0138-0322]]||[[Cetus]]||{{RA|1|38|36.59}}||{{DEC|-3|22|21.57}}||16.36||57.7||T3||||||2010
+|-
+| [[WISE 0146+4234]]||[[Andromeda (constellation)|Andromeda]]||{{RA|1|46|56.66}}||{{DEC|42|34|10.0}}||18.71||20.5||Y0||||||2010
+|-
+| [[WISE 0148-7202]]||[[Hydrus]]||{{RA|1|48|7.4}}||{{DEC|-72|2|58.87}}||18.96||30||T9.5||||||2010
+|-
+| WISE 0150+3827||[[Andromeda (constellation)|Andromeda]]||{{RA|1|50|10.93}}||{{DEC|38|27|24.04}}||16.07||61.3||T0||||||2010
+|-
+| WISE 0206+2640||[[Aries (constellation)|Aries]]||{{RA|2|6|25.29}}||{{DEC|26|40|23.64}}||16.53||58.4||L9 pec||||||2010
+|-
+| WISE 0221+3842||[[Andromeda (constellation)|Andromeda]]||{{RA|2|21|5.99}}||{{DEC|38|42|2.73}}||17.59||73.1||T6.5||||||2010
+|-
+| WISE 0223-2932||[[Fornax]]||{{RA|2|23|22.39}}||{{DEC|-29|32|57.63}}||17.34||47||T7.5||||||2010
+|-
+| WISE 0226-0211||[[Cetus]]||{{RA|2|26|24}}||{{DEC|-2|11|42.51}}||18.94||91||T7||||||2010
+|-
+| WISE 0241-3653||[[Fornax]]||{{RA|2|41|24.73}}||{{DEC|-36|53|28.0}}||||53.8||T7||||||2010
+|-
+| WISE 0245-3450||[[Fornax]]||{{RA|2|45|12.62}}||{{DEC|-34|50|47.8}}||||56.1||T8||||||2010
+|-
+| WISE 0247+3725||[[Perseus (constellation)|Perseus]]||{{RA|2|47|14.52}}||{{DEC|37|25|23.5}}||||57.1||T8||||||2010
+|-
+| WISE 0305+3954||[[Perseus (constellation)|Perseus]]||{{RA|3|5|33.55}}||{{DEC|39|54|34.77}}||17.13||75||T6||||||2010
+|-
+| WISE 0307+2904||[[Aries (constellation)|Aries]]||{{RA|3|7|24.58}}||{{DEC|29|4|47.46}}||17.78||82.8||T6.5||||||2010
+|-
+| [[WISE 0313+7807]]||[[Cepheus (constellation)|Cepheus]]||{{RA|3|13|26.02}}||{{DEC|78|7|44.4}}||17.65||28||T8.5||||||2010
+|-
+| [[WISE 0316+4307]]||[[Perseus (constellation)|Perseus]]||{{RA|3|16|24.35}}||{{DEC|43|7|9.1}}||||106.3||T8||||||2010
+|-
+| WISE 0321-7347||[[Hydrus]]||{{RA|3|21|20.91}}||{{DEC|-73|47|58.8}}||||84.8||T8||||||2010
+|-
+| WISE 0323-6025||[[Reticulum]]||{{RA|3|23|37.57}}||{{DEC|-60|25|54.5}}||18.15||45.3||T8.5||||||2010
+|-
+| WISE 0325-3854||[[Fornax]]||{{RA|3|25|17.69}}||{{DEC|-38|54|54.1}}||||51.2||T9||||||2010
+|-
+| WISE 0325+0831||[[Taurus (constellation)|Taurus]]||{{RA|3|25|47.72}}||{{DEC|8|31|18.2}}||||36.5||T7||||||2010
+|-
+| [[WISE 0333-5856]]||[[Reticulum]]||{{RA|3|33|49.33}}||{{DEC|-58|56|18.6}}||16||54.8||T3||||||2010
+|-
+| WISE 0335+4310||[[Perseus (constellation)|Perseus]]||{{RA|3|35|15.01}}||{{DEC|43|10|45.1}}||||45.7||T9::||||||2010
+|-
+| WISE 0336-0143||[[Eridanus (constellation)|Eridanus]]||{{RA|3|36|5.05}}||{{DEC|-1|43|50.4}}||||55.4||T8::||||||2010
+|-
+| [[WISE 0350-5658]]||[[Reticulum]]||{{RA|3|50|0.32}}||{{DEC|-56|58|30.2}}||22.8||17.7||Y1||||||2010
+|-
+| [[WISE 0359-5401]]||[[Reticulum]]||{{RA|3|59|34.06}}||{{DEC|-54|1|54.6}}||21.56||19.2||Y0||||||2010
+|-
+| [[WISE 0410+1502]]||[[Taurus (constellation)|Taurus]]||{{RA|4|10|22.79}}||{{DEC|15|2|47.47}}||19.25||20||Y0||6||1.17||2010
+|-
+| WISE 0410+1411||[[Taurus (constellation)|Taurus]]||{{RA|4|10|54.46}}||{{DEC|14|11|31.41}}||17.16||85.8||T6||||||2010
+|-
+| WISE 0413-4750||[[Horologium (constellation)|Horologium]]||{{RA|4|13|58.14}}||{{DEC|-47|50|39.3}}||||66.2||T9||||||2010
+|-
+| WISE 0448-1935||[[Eridanus (constellation)|Eridanus]]||{{RA|4|48|53.31}}||{{DEC|-19|35|48.06}}||16.99||69.8||T5 pec||||||2010
+|-
+| [[WISE 0458+6434]]A||[[Camelopardalis]]||{{RA|4|58|53.93}}||{{DEC|64|34|52.72}}||17.50||35.9||T8.5||15||4.2||2010
+|-
+| [[WISE 0458+6434]]B||[[Camelopardalis]]||{{RA|4|58|53.93}}||{{DEC|64|34|52.72}}||18.48||35.9||T9.5||10||3.8||2010
+|-
+| WISE 0500-1223||[[Eridanus (constellation)|Eridanus]]||{{RA|5|0|3.03}}||{{DEC|-12|23|42.93}}||17.82||47||T8||||||2010
+|-
+| WISE 0513+0608||[[Orion (constellation)|Orion]]||{{RA|5|13|17.28}}||{{DEC|6|8|14.55}}||16.21||44.7||T6.5||||||2010
+|-
+| WISE 0525+6739||[[Camelopardalis]]||{{RA|5|25|36.28}}||{{DEC|67|39|49.79}}||17.49||98.2||T6 pec||||||2010
+|-
+| WISE 0528-3308||[[Columba (constellation)|Columba]]||{{RA|5|28|44.53}}||{{DEC|-33|8|23.95}}||16.67||57.4||T7 pec||||||2010
+|-
+| [[WISE 0535-7500]]||[[Mensa (constellation)|Mensa]]||{{RA|5|35|16.8}}||{{DEC|-75|0|24.9}}||21.1||47||Y1||||||2010
+|-
+| WISE 0539-1034||[[Orion (constellation)|Orion]]||{{RA|5|39|56.98}}||{{DEC|-10|34|36.71}}||17.71||84.8||T5.5||||||2010
+|-
+| WISE 0542-1628||[[Lepus (constellation)|Lepus]]||{{RA|5|42|31.28}}||{{DEC|-16|28|28.96}}||16.64||50.6||T6.5||||||2010
+|-
+| [[WISE 0607+2429]]||[[Gemini (constellation)|Gemini]]||{{RA|6|7|38.65}}||{{DEC|24|29|53.5}}||14.22||25.4||L8||||||2010
+|-
+| WISE 0611-0410||[[Monoceros (constellation)|Monoceros]]||{{RA|6|11|35.14}}||{{DEC|-4|10|24.17}}||15.49||57.7||T0||||||2010
+|-
+| WISE 0612-4920||[[Puppis]]||{{RA|6|12|8.69}}||{{DEC|-49|20|23.9}}||||95.2||T3.5||||||2010
+|-
+| WISE 0612-3036||[[Canis Major]]||{{RA|6|12|13.88}}||{{DEC|-30|36|12.2}}||17||64.9||T6||||||2010
+|-
+| WISE 0614+3912||[[Auriga (constellation)|Auriga]]||{{RA|6|14|7.51}}||{{DEC|39|12|35.67}}||16.93||50.2||T6||||||2010
+|-
+| WISE 0614+0951||[[Orion (constellation)|Orion]]||{{RA|6|14|37.73}}||{{DEC|9|51|35.0}}||||51.5||T7||||||2010
+|-
+| WISE 0623-0456||[[Monoceros (constellation)|Monoceros]]||{{RA|6|23|9.91}}||{{DEC|-4|56|24.27}}||17.51||37.5||T8||||||2010
+|-
+| WISE 0625+5646||[[Lynx (constellation)|Lynx]]||{{RA|6|25|42.27}}||{{DEC|56|46|25.55}}||17.1||67.2||T6||||||2010
+|-
+| WISE 0627-1114||[[Canis Major]]||{{RA|6|27|20.08}}||{{DEC|-11|14|27.98}}||15.49||37.2||T6||||||2010
+|-
+| [[WISE 0647-6232]]||[[Pictor (constellation)|Pictor]]||{{RA|6|47|23.23}}||{{DEC|-62|32|39.7}}||22.65||28||Y1||||||2010
+|-
+| WISE 0656+4205||[[Auriga (constellation)|Auriga]]||{{RA|6|56|9.63}}||{{DEC|42|5|32.22}}||15.45||54.1||T3||||||2010
+|-
+| [[WISE 0713-2917]]||[[Canis Major]]||{{RA|7|13|22.55}}||{{DEC|-29|17|51.9}}||19.64||23.2||Y0||||||2010
+|-
+| WISE 0723+3403||[[Gemini (constellation)|Gemini]]||{{RA|7|23|12.44}}||{{DEC|34|3|13.5}}||||45.7||T9:||||||2010
+|-
+| WISE 0733+7544||[[Camelopardalis]]||{{RA|7|33|47.94}}||{{DEC|75|44|39.2}}||||78.3||T6||||||2010
+|-
+| [[WISE 0734-7157]]||[[Volans]]||{{RA|7|34|44.02}}||{{DEC|-71|57|44.0}}||20.41||34.9||Y0||||||2010
+|-
+| WISE 0744+5628||[[Lynx (constellation)|Lynx]]||{{RA|7|44|57.28}}||{{DEC|56|28|21.12}}||17.68||47.3||T8||||||2010
+|-
+| [[WISE 0750+2725]]||[[Gemini (constellation)|Gemini]]||{{RA|7|50|3.77}}||{{DEC|27|25|44.68}}||19.02||51.5||T8.5||||||2010
+|-
+| WISE 0751-7634||[[Chamaeleon]]||{{RA|7|51|8.75}}||{{DEC|-76|34|49.54}}||19.34||39.1||T9||||||2010
+|-
+| WISE 0759-4904||[[Puppis]]||{{RA|7|59|46.98}}||{{DEC|-49|4|54.13}}||||38.8||T8||||||2010
+|-
+| WISE 0811-8051||[[Chamaeleon]]||{{RA|8|11|17.81}}||{{DEC|-80|51|41.3}}||||32||T9.5:||||||2010
+|-
+| WISE 0812+4021||[[Lynx (constellation)|Lynx]]||{{RA|8|12|20.04}}||{{DEC|40|21|6.2}}||||63.6||T8||||||2010
+|-
+| WISE 0819-0335||[[Hydra (constellation)|Hydra]]||{{RA|8|19|58.06}}||{{DEC|-3|35|28.52}}||14.99||46||T4||||||2010
+|-
+| WISE 0821+1443||Ursa Major||{{RA|8|21|31.66}}||{{DEC|14|43|19.29}}||16.78||68.2||T5.5||||||2010
+|-
+| WISE 0836-1859||[[Pyxis]]||{{RA|8|36|41.17}}||{{DEC|-18|59|47.18}}||||72.4||T8 pec||||||2010
+|-
+| WISE 0857+5604||[[Ursa Major]]||{{RA|8|57|16.25}}||{{DEC|56|4|7.58}}||17.65||42.1||T8||||||2010
+|-
+| WISE 0906+4735||[[Ursa Major]]||{{RA|9|6|49.34}}||{{DEC|47|35|38.2}}||18.16||51.5||T8||||||2010
+|-
+| WISE 0929+0409||[[Hydra (constellation)|Hydra]]||{{RA|9|29|6.78}}||{{DEC|4|9|57.59}}||17.21||64.9||T6.5||||||2010
+|-
+| WISE 0952+1955||[[Leo (constellation)|Leo]]||{{RA|9|52|59.3}}||{{DEC|19|55|8.49}}||17.13||72.1||T6||||||2010
+|-
+| WISE 1018-2445||[[Hydra (constellation)|Hydra]]||{{RA|10|18|8.05}}||{{DEC|-24|45|58.26}}||||47.6||T8||||||2010
+|-
+| WISE 1019+6529||[[Ursa Major]]||{{RA|10|19|5.64}}||{{DEC|65|29|54.17}}||16.59||56.8||T6||||||2010
+|-
+| WISE 1039-1600||[[Hydra (constellation)|Hydra]]||{{RA|10|39|7.73}}||{{DEC|-16|0|2.9}}||||47.3||T7.5||||||2010
+|-
+| WISE 1042-3842||[[Antlia]]||{{RA|10|42|45.29}}||{{DEC|-38|42|37.86}}||||53.2||T8.5||||||2010
+|-
+| WISE 1051-2138||[[Hydra (constellation)|Hydra]]||{{RA|10|51|30.01}}||{{DEC|-21|38|59.7}}||||40.8||T9:||||||2010
+|-
+| WISE 1122+2550||[[Leo (constellation)|Leo]]||{{RA|11|22|54.71}}||{{DEC|25|50|21.85}}||16.67||57.7||T6||||||2010
+|-
+| WISE 1124-0421||[[Leo (constellation)|Leo]]||{{RA|11|24|38.12}}||{{DEC|-4|21|49.7}}||||50.6||T7||||||2010
+|-
+| [[WISE 1147-2040]]||[[Hydra (constellation)|Hydra]]||{{RA|11|47|24.21}}||{{DEC|-20|40|20.44}}||||102||L7||||||2010
+|-
+| WISE 1150+6302||[[Ursa Major]]||{{RA|11|50|13.9}}||{{DEC|63|2|40.97}}||17.72||32.9||T8||||||2010
+|-
+| [[WISE 1217+1626]]A||[[Coma Berenices]]||{{RA|12|17|56.96}}||{{DEC|16|26|39.98}}||18.59||34.2||T9||12||||2010
+|-
+| [[WISE 1217+1626]]B||[[Coma Berenices]]||{{RA|12|17|56.96}}||{{DEC|16|26|39.98}}||20.26||34.2||Y0||6||||2010
+|-
+| WISE 1225-1013||[[Virgo (constellation)|Virgo]]||{{RA|12|25|58.86}}||{{DEC|-10|13|45.0}}||||55.4||T6||||||2010
+|-
+| WISE 1311+0122||[[Virgo (constellation)|Virgo]]||{{RA|13|11|6.21}}||{{DEC|1|22|53.61}}||18.97||44.4||T9:||||||2010
+|-
+| WISE 1311+3629||[[Canes Venatici]]||{{RA|13|11|41.91}}||{{DEC|36|29|24.83}}||15.55||86.1||L5 pec||||||2010
+|-
+| WISE 1318-1758||[[Virgo (constellation)|Virgo]]||{{RA|13|18|33.98}}||{{DEC|-17|58|26.5}}||||32.9||T9:||||||2010
+|-
+| WISE 1320+6034||[[Ursa Major]]||{{RA|13|20|4.18}}||{{DEC|60|34|25.99}}||16.95||56.1||T6.5||||||2010
+|-
+| [[WISE 1322-2340]]||[[Hydra (constellation)|Hydra]]||{{RA|13|22|33.63}}||{{DEC|-23|40|16.71}}||17.01||33.9||T8||||||2010
+|-
+| WISE 1348+6603||[[Draco (constellation)|Draco]]||{{RA|13|48|7.04}}||{{DEC|66|3|28.25}}||17.17||91||L9||||||2010
+|-
+| [[WISE 1405+5534]]||[[Ursa Major]]||{{RA|14|5|18.27}}||{{DEC|55|34|21.22}}||20.2||25.3||Y0 pec||30||0.86||2010
+|-
+| WISE 1433-0837||[[Libra (constellation)|Libra]]||{{RA|14|33|11.42}}||{{DEC|-8|37|36.4}}||||84.8||T8::||||||2010
+|-
+| WISE 1436-1814||[[Libra (constellation)|Libra]]||{{RA|14|36|2.22}}||{{DEC|-18|14|21.87}}||||60||T8 pec||||||2010
+|-
+| WISE 1457+5815||[[Draco (constellation)|Draco]]||{{RA|14|57|15.03}}||{{DEC|58|15|9.93}}||16.83||52.2||T7||||||2010
+|-
+| [[WISE 1506+7027]]||[[Ursa Minor]]||{{RA|15|6|49.89}}||{{DEC|70|27|36.23}}||14.33||11.1||T6||||||2010
+|-
+| WISE 1517+0529||[[Serpens]]||{{RA|15|17|21.13}}||{{DEC|5|29|29.3}}||||72.4||T8||||||2010
+|-
+| WISE 1519+7009||[[Ursa Minor]]||{{RA|15|19|6.69}}||{{DEC|70|9|30.92}}||17.88||50.9||T8||||||2010
+|-
+| WISE 1523+3125||[[Corona Borealis]]||{{RA|15|23|5.1}}||{{DEC|31|25|37.6}}||||84.5||T7 p||||||2010
+|-
+| [[WISE 1541-2250]]||[[Libra (constellation)|Libra]]||{{RA|15|41|51.57}}||{{DEC|-22|50|25.03}}||21.16||20||Y0.5||||||2010
+|-
+| WISE 1542+2230||[[Serpens]]||{{RA|15|42|14.0}}||{{DEC|22|30|5.2}}||||41.1||T9.5||||||2010
+|-
+| WISE 1612-3420||[[Scorpius]]||{{RA|16|12|15.92}}||{{DEC|-34|20|28.61}}||||55.4||T6.5||||||2010
+|-
+| [[WISE 1614+1739]]||[[Hercules (constellation)|Hercules]]||{{RA|16|14|41.48}}||{{DEC|17|39|35.44}}||19.08||32.6||T9||||||2010
+|-
+| [[WISE 1617+1807]]||[[Hercules (constellation)|Hercules]]||{{RA|16|17|5.74}}||{{DEC|18|7|14.21}}||17.66||50.2||T8||||||2010
+|-
+| [[WISE 1622-0959]]||[[Scorpius]]||{{RA|16|22|9.95}}||{{DEC|-9|55|34.78}}||16.44||52.2||T6||||||2010
+|-
+| [[WISE 1627+3255]]||[[Hercules (constellation)|Hercules]]||{{RA|16|27|25.65}}||{{DEC|32|55|24.5}}||16.61||50.2||T6||||||2010
+|-
+| [[WISE 1639-6847]]||[[Triangulum Australe]]||{{RA|16|39|40.83}}||{{DEC|-68|47|38.6}}||||16.3||Y0||||||2010
+|-
+| [[WISE 1647+5632]]||[[Draco (constellation)|Draco]]||{{RA|16|47|15.59}}||{{DEC|56|32|8.44}}||16.59||28||T6||||||2010
+|-
+| [[WISE 1653+4444]]||[[Hercules (constellation)|Hercules]]||{{RA|16|53|11.03}}||{{DEC|44|44|22.71}}||17.59||39.5||T8||||||2010
+|-
+| WISE 1711+3500||[[Hercules (constellation)|Hercules]]||{{RA|17|11|4.59}}||{{DEC|35|0|36.73}}||17.89||60.3||T8||||||2010
+|-
+| WISE 1717+6129||[[Draco (constellation)|Draco]]||{{RA|17|17|17.13}}||{{DEC|61|28|58.82}}||18.49||72.7||T8||||||2010
+|-
+| WISE 1721+1117||[[Ophiuchus]]||{{RA|17|21|34.46}}||{{DEC|11|17|39.4}}||||62.3||T6||||||2010
+|-
+| WISE 1728+5716||[[Draco (constellation)|Draco]]||{{RA|17|28|44.97}}||{{DEC|57|16|42.9}}||17.68||97.8||T6||||||2010
+|-
+| [[WISE 1738+2732]]||[[Hercules (constellation)|Hercules]]||{{RA|17|38|35.54}}||{{DEC|27|32|58.78}}||19.47||20||Y0||||||2010
+|-
+| [[WISE 1741+2553]]||[[Hercules (constellation)|Hercules]]||{{RA|17|41|24.22}}||{{DEC|25|53|18.96}}||16.53||18.9||T9||||||2010
+|-
+| WISE 1746-0338||[[Ophiuchus]]||{{RA|17|46|40.78}}||{{DEC|-3|38|18}}||17.45||83.8||T6||||||2010
+|-
+| [[WISE 1800+0134]]||[[Ophiuchus]]||{{RA|18|0|26.60}}||{{DEC|1|34|53.1}}||14.3||28.7||T7.5||57||||2010
+|-
+| WISE 1804+3117||[[Hercules (constellation)|Hercules]]||{{RA|18|4|35.39}}||{{DEC|31|17|5.98}}||18.7||30||T9.5:||||||2010
+|-
+| WISE 1809+3838||[[Hercules (constellation)|Hercules]]||{{RA|18|9|1.07}}||{{DEC|38|38|5.4}}||||74.4||T8||||||2010
+|-
+| [[WISE 1812+2721]]||[[Hercules (constellation)|Hercules]]||{{RA|18|12|10.83}}||{{DEC|27|21|44.26}}||18.19||47||T8.5:||||||2010
+|-
+| [[WISE 1828+2650]]||[[Lyra]]||{{RA|18|28|31.10}}||{{DEC|26|50|37.79}}||23.57||36||Y2||||||2010
+|-
+| WISE 1830+4542||[[Lyra]]||{{RA|18|30|58.57}}||{{DEC|45|42|57.55}}||||107||L9||||||2010
+|-
+| [[WISE 1841+7000]]||[[Draco (constellation)|Draco]]||{{RA|18|41|24.75}}||{{DEC|70|0|38.54}}||17.24||131.1||T5||||||2010
+|-
+| WISE 1852+3537||[[Lyra]]||{{RA|18|52|15.83}}||{{DEC|35|37|16.06}}||16.5||55.4||T7||||||2010
+|-
+| WISE 1906+4508||[[Lyra]]||{{RA|19|6|24.73}}||{{DEC|45|8|6.88}}||16.36||51.5||T6||||||2010
+|-
+| WISE 1928+2356||[[Vulpecula]]||{{RA|19|28|41.35}}||{{DEC|23|56|4.9}}||||22.8||T6||||||2010
+|-
+| [[WISE 1952+7240]]||[[Draco (constellation)|Draco]]||{{RA|19|52|46.61}}||{{DEC|72|40|0.61}}||15.09||44.4||T4||||||2010
+|-
+| WISE 1959-3338||[[Sagittarius (constellation)|Sagittarius]]||{{RA|19|59|5.65}}||{{DEC|33|38|34.03}}||16.87||37.2||T8||||||2010
+|-
+| [[WISE 2030+0749]]||[[Delphinus (constellation)|Delphinus]]||{{RA|20|30|42.90}}||{{DEC|7|49|34.4}}||14.23||34.2||T1.5||||||2010
+|-
+| WISE 2014+0424||[[Aquila (constellation)|Aquila]]||{{RA|20|14|4.13}}||{{DEC|4|24|8.5}}||||96.2||T7 p||||||2010
+|-
+| [[WISE 2015+6646]]||[[Draco (constellation)|Draco]]||{{RA|20|15|46.27}}||{{DEC|66|46|45.1}}||||50.6||T8||||||2010
+|-
+| [[WISE 2018-7423]]||[[Pavo (constellation)|Pavo]]||{{RA|20|18|25}}||{{DEC|-74|23|27.99}}||17.11||47.9||T7||||||2010
+|-
+| WISE 2019-1148||[[Capricornus]]||{{RA|20|19|20.76}}||{{DEC|-11|48|7.6}}||||42.4||T8.5:||||||2010
+|-
+| [[WISE 2056+1459]]||[[Delphinus (constellation)|Delphinus]]||{{RA|20|56|28.88}}||{{DEC|14|59|53.68}}||19.21||24.5||Y0||||||2010
+|-
+| WISE 2134-7137||[[Indus (constellation)|Indus]]||{{RA|21|34|56.81}}||{{DEC|-71|37|44.56}}||19.8||42.7||T9 pec||||||2010
+|-
+| WISE 2157+2659||[[Pegasus (constellation)|Pegasus]]||{{RA|21|57|51.34}}||{{DEC|26|59|31.25}}||17.31||61.6||T7||||||2010
+|-
+| WISE 2209-2734||[[Piscis Austrinus]]||{{RA|22|9|22.05}}||{{DEC|-27|34|39.94}}||16.81||46||T7||||||2010
+|-
+| WISE 2213+0911||[[Pegasus (constellation)|Pegasus]]||{{RA|22|13|54.71}}||{{DEC|9|11|39.47}}||16.98||58.7||T7||||||2010
+|-
+| [[WISE 2220-3628]]||[[grus (constellation)|Grus]]||{{RA|22|20|55.31}}||{{DEC|-36|28|17.4}}||20.38||26.4||Y0||||||2010
+|-
+| WISE 2226+0440||[[Pegasus (constellation)|Pegasus]]||{{RA|22|26|23.06}}||{{DEC|4|40|3.06}}||16.9||45||T8||||||2010
+|-
+| WISE 2237-0614||[[Aquarius (constellation)|Aquarius]]||{{RA|22|37|29.48}}||{{DEC|-6|14|34.36}}||17.4||53.5||T5||||||2010
+|-
+| WISE 2237+7228||[[Cepheus (constellation)|Cepheus]]||{{RA|22|37|20.39}}||{{DEC|72|28|33.8}}||||46||T6||||||2010
+|-
+| WISE 2239+1617||[[Pegasus (constellation)|Pegasus]]||{{RA|22|39|37.57}}||{{DEC|16|17|16}}||16.18||59.7||T3||||||2010
+|-
+| WISE 2255-3118||[[Piscis Austrinus]]||{{RA|22|55|40.74}}||{{DEC|-31|18|42.11}}||17.29||44.7||T8||||||2010
+|-
+| WISE 2301+0216||[[Pisces (constellation)|Pisces]]||{{RA|23|1|33.32}}||{{DEC|2|16|35.1}}||||60.7||T6.5||||||2010
+|-
+| [[WISE 2313-8037]]||[[Octans]]||{{RA|23|13|36.45}}||{{DEC|-80|37|0.7}}||16.97||35.9||T8||||||2010
+|-
+| WISE 2319-1844||[[Aquarius (constellation)|Aquarius]]||{{RA|23|19|39.13}}||{{DEC|-18|44|4.15}}||17.43||52.2||T7.5||||||2010
+|-
+| WISE 2325-4105||[[grus (constellation)|Grus]]||{{RA|23|25|19.54}}||{{DEC|-41|5|34.92}}||19.75||37.5||T9 pec||||||2010
+|-
+| WISE 2327-2730||[[Sculptor (constellation)|Sculptor]]||{{RA|23|27|28.74}}||{{DEC|-27|30|56.66}}||16.68||70.8||L9||||||2010
+|-
+| WISE 2335+4222||[[Andromeda (constellation)|Andromeda]]||{{RA|22|35|43.79}}||{{DEC|42|22|55.2}}||||90.3||T7||||||2010
+|-
+| WISE 2340-0745||[[Aquarius (constellation)|Aquarius]]||{{RA|23|40|26.6}}||{{DEC|-7|45|8.46}}||16.15||37.8||T7||||||2010
+|-
+| WISE 2342+0856||[[Pegasus (constellation)|Pegasus]]||{{RA|23|42|28.98}}||{{DEC|8|56|20.2}}||||51.2||T6.5||||||2010
+|-
+| WISE 2343-7418||[[Octans]]||{{RA|23|43|51.3}}||{{DEC|-74|18|46.86}}||16.13||48.6||T6||||||2010
+|-
+| WISE 2344+1034||[[Pegasus (constellation)|Pegasus]]||{{RA|23|44|46.23}}||{{DEC|10|34|16.1}}||18.8||46||T9||||||2010
+|-
+| WISE 2348-1028||[[Aquarius (constellation)|Aquarius]]||{{RA|23|48|41.13}}||{{DEC|-10|28|44.11}}||16.91||54.1||T7||||||2010
+|-
+| WISE 2357+1227||[[Pegasus (constellation)|Pegasus]]||{{RA|23|57|16.49}}||{{DEC|12|27|41.8}}||||54.8||T6||||||2010
+|-
+| [[WISE 2359-7335]]||[[Tucana]]||{{RA|23|59|41.08}}||{{DEC|-73|35|5.09}}||16.16||42.7||T5.5||||||2010
+|-
+| [[WISEA 1101+5400]]
+| [[Ursa Major]]
+| 11&lt;sup&gt;h&lt;/sup&gt; 01&lt;sup&gt;m&lt;/sup&gt; 25.95&lt;sup&gt;s&lt;/sup&gt;
+| +54° 00′ 52.8″
+|
+| 111
+| T5.5
+|
+|
+| 2017
+|-
+| [[2M1510]]
+| [[Libra (constellation)|Libra]]
+| 15&lt;sup&gt;h&lt;/sup&gt; 10&lt;sup&gt;m&lt;/sup&gt; 47.47&lt;sup&gt;s&lt;/sup&gt;
+| −28° 18′ 18.3″
+|
+| 120
+| M9γ+M9γ
+| 
+|
+| 2002
+|-
+|[[CWISE J022454.10+152633.8]]AB&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Aries
+| {{Ra|02|24|54.10}}
+| {{Dec|+15|26|33.8}}
+|
+|
+|T1+L6β
+|52+52
+|
+|2024
+|-
+|[[CWISE J062725.95–002843.8]]AB&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Monoceros
+| {{Ra|06|27|25.95}}
+| {{Dec|-00|28|43.8}}
+|
+|129.7
+|T3+T0(blue)
+|52+52
+|
+|2024
+|-
+|[[CWISE J151940.47–485810.2]]AB&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Lupus
+| {{Ra|15|19|40.47}}
+| {{Dec|-48|58|10.2}}
+|
+|
+|L5+L6
+|63+63
+|
+|2024
+|-
+|[[CWISE J190907.63+553037.3]]AB&lt;ref name=&quot;Rothermich2024&quot;/&gt;
+|Cygnus
+| {{Ra|19|09|07.63}}
+| {{Dec|+55|30|37.3}}
+|
+|
+|L2+L6
+|63+63
+|
+|2024
+|}
+
+== Former brown dwarfs ==
+
+{| class=&quot;wikitable sortable&quot; style=&quot;text-align:center&quot;
+! [[Star]]
+! [[Constellation]]
+! [[Right ascension|Right&lt;br&gt;ascension]]
+! [[Declination]]
+! [[Apparent magnitude|App.&lt;br&gt;mag.]]
+! [[Stellar distance|Distance]] &lt;small&gt;([[light-year|ly]])&lt;/small&gt;
+! [[Stellar classification|Spectral&lt;br&gt;type]]
+! [[Brown dwarf]]
+! [[Mass]]&lt;br&gt;&lt;small&gt;([[Jupiter mass|M&lt;sub&gt;J&lt;/sub&gt;]])&lt;/small&gt;
+! [[Radius]]&lt;br&gt;&lt;small&gt;([[Jupiter radius|R&lt;sub&gt;J&lt;/sub&gt;]])&lt;/small&gt;
+! [[Orbital period|Orbital&lt;br&gt;period]]&lt;br&gt;&lt;small&gt;([[day|d]])&lt;/small&gt;
+! [[Semimajor axis|Semimajor&lt;br&gt;axis]]&lt;br&gt;&lt;small&gt;([[Astronomical unit|AU]])&lt;/small&gt;
+! [[Orbital eccentricity|Ecc.]]
+! Discovery year
+|-
+| [[L 34-26]]
+| [[Chamaeleon]]
+| {{RA|07|49|12.71}}
+| {{DEC|–76|42|06.5}}
+|
+| 35.6
+| M3Ve&lt;ref&gt;{{Cite web|title=L 34-26|url=http://sim-basic/|access-date=2021-07-16|website=sim-basic}}{{Dead link|date=November 2023 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt;
+| [[COCONUTS-2b]]
+| {{Val|6.3|1.5|1.9}}
+|
+| 400000000
+| 7506{{±|5205|2060}}
+|
+| 2011
+|}
+
+== See also ==
+
+* [[Lists of astronomical objects]]
+* [[List of exoplanets]]
+
+== References ==
+
+{{reflist
+| refs = 
+
+&lt;ref name=&quot;DwarfArchives&quot;&gt;{{cite web
+  |date=27 December 2015
+  |title=List of Brown Dwarfs
+  |publisher=Johnston's Archive
+  |author=Wm. Robert Johnson
+  |url=http://www.johnstonsarchive.net/astro/browndwarflist.html
+  |access-date=25 March 2017}} (2,850 confirmed; 930 candidates)&lt;!-- 644 M, 1473 L, 794 T, 27 Y --&gt;&lt;/ref&gt;
+
+&lt;ref name=&quot;GJ569Bab&quot;&gt;{{cite journal|author1=FEMENIA B. |author2=REBOLO R. |author3=PEREZ-PRIETO J.A. |author4=HILDEBRANDT S.R. |author5=LABADIE L. |author6=PEREZ-GARRIDO A. |author7=BEJAR V.J.S. |author8=DIAZ-SANCHEZ A. |author9=VILLO I. |author10=OSCOZ A. |author11=LOPEZ R. |author12=RODRIGUEZ L.F. |author13=PIQUERAS J. |title=Lucky imaging adaptive optics of the brown dwarf binary GJ569Bab|journal=Mon. Not. R. Astron. Soc.|date=2011|volume=413|pages=1524–1536|bibcode=1988ApJ...330L.119F|doi=10.1086/185218 }}&lt;/ref&gt;
+
+&lt;ref name=&quot;Gliese569B discovery&quot;&gt;{{cite journal|last1=Forrest, Skrutskie and Shure|title=A possible brown dwarf companion to Gliese 569|journal=Astrophysical Journal Letters|date=1988|volume=330|issue=3|page=L119–L123|bibcode=2011MNRAS.413.1524F|doi=10.1111/j.1365-2966.2011.18226.x|doi-access=free |arxiv = 1012.4421 |s2cid=55001061}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Kirkpatrick2012&quot;&gt;{{cite journal |author-link=J. Davy Kirkpatrick |last1=Kirkpatrick |first1=J. Davy |last2=Gelino |first2=Christopher R. |last3=Cushing |first3=Michael C. |last4=Mace | first4=Gregory N. |last5=Griffith |first5=Roger L. |last6=Skrutskie |first6=Michael F. |last7=Marsh |first7=Kenneth A. |last8=Wright |first8=Edward L. |last9=Eisenhardt |first9=Peter R. |last10=McLean |first10=Ian S. |last11=Mainzer | first11=Amy K. |last12=Burgasser |first12=Adam J. |last13=Tinney |first13=Chris G. |last14=Parker |first14=Stephen |last15=Salter |first15=Graeme |title=Further Defining Spectral Type &quot;Y&quot; and Exploring the Low-mass End of the Field Brown Dwarf Mass Function |year=2012 |journal=[[The Astrophysical Journal]] | volume=753 |issue=2 |pages=156 |arxiv=1205.2122 |doi=10.1088/0004-637X/753/2/156 |bibcode=2012ApJ...753..156K |s2cid=119279752 }}&lt;/ref&gt;
+
+&lt;ref name=&quot;Filippazzo2015&quot;&gt;{{cite journal|arxiv=1508.01767|doi=10.1088/0004-637X/810/2/158|title=Fundamental Parameters and Spectral Energy Distributions of Young and Field Age Objects with Masses Spanning the Stellar to Planetary Regime|journal=The Astrophysical Journal|volume=810|issue=2|pages=158|year=2015|last1=Filippazzo|first1=Joseph C.|last2=Rice|first2=Emily L.|last3=Faherty|first3=Jacqueline|author3-link=Jackie Faherty|last4=Cruz|first4=Kelle L.|last5=Van Gordon|first5=Mollie M.|last6=Looper|first6=Dagny L.|last7=Béjar|first7=V. J. S.|last8=Díaz-Sánchez|first8=A.|last9=Villó|first9=I.|last10=Oscoz|first10=A.|last11=López|first11=R.|last12=Rodríguez|first12=L. F.|last13=Piqueras|first13=J.|bibcode=2015ApJ...810..158F|s2cid=89611607}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Universetoday2013&quot;&gt;{{cite news |url=http://www.universetoday.com/19237/dense-exoplanet-creates-classification-calamity/ |title=Dense Exoplanet Creates Classification Calamity |author=Nicholos Wethington |work=Universetoday.com |date=October 6, 2008 |access-date=January 30, 2013}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Rebolo2014&quot;&gt;{{citation |last=Rebolo|first=Rafael|chapter=Teide 1 and the Discovery of Brown Dwarfs|pages=25–50|editor-last=Joergens|editor-first=Viki|title=50 Years of Brown Dwarfs - From Prediction to Discovery to Forefront of Research |series=Astrophysics and Space Science Library |volume=401|publisher=Springer|publication-date=2014 |isbn=978-3-319-01162-2 |chapter-url=https://www.springer.com/astronomy/book/978-3-319-01161-5|doi=10.1007/978-3-319-01162-2_4|year=2014}}&lt;/ref&gt;
+
+&lt;ref name=&quot;STScI2013&quot;&gt;{{cite web|title=Astronomers Announce First Clear Evidence of a Brown Dwarf|url=http://hubblesite.org/newscenter/newsdesk/archive/releases/1995/48/|publisher=[[Space Telescope Science Institute]] news release STScI-1995-48|date=November 29, 1995|access-date=24 September 2013}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Mohanty2007&quot;&gt;{{cite journal|doi=10.1086/510877|title=The Planetary Mass Companion 2MASS 1207−3932B: Temperature, Mass, and Evidence for an Edge-on Disk|journal=The Astrophysical Journal|volume=657|issue=2|pages=1064–1091|year=2007|last1=Mohanty|first1=Subhanjoy|last2=Jayawardhana|first2=Ray|last3=Huelamo|first3=Nuria|last4=Mamajek|first4=Eric|bibcode=2007ApJ...657.1064M|arxiv = astro-ph/0610550 |s2cid=17326111}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Best2024&quot;&gt;{{Cite journal |last1=Best |first1=William M. J. |last2=Dupuy |first2=Trent J. |last3=Liu |first3=Michael C. |last4=Sanghi |first4=Aniket |last5=Siverd |first5=Robert J. |last6=Zhang |first6=Zhoujian |date=2024-02-04 |title=The UltracoolSheet: Photometry, Astrometry, Spectroscopy, and Multiplicity for 3000+ Ultracool Dwarfs and Imaged Exoplanets |url=https://zenodo.org/records/10573247 |journal=Zenodo|doi=10.5281/zenodo.10573247 }}&lt;/ref&gt;
+
+&lt;ref name=&quot;Sanghi2023&quot;&gt;{{Cite journal |last1=Sanghi |first1=Aniket |last2=Liu |first2=Michael C. |last3=Best |first3=William M. J. |last4=Dupuy |first4=Trent J. |last5=Siverd |first5=Robert J. |last6=Zhang |first6=Zhoujian |last7=Hurt |first7=Spencer A. |last8=Magnier |first8=Eugene A. |last9=Aller |first9=Kimberly M. |last10=Deacon |first10=Niall R. |date=2023-11-08 |title=Table of Ultracool Fundamental Properties |url=https://zenodo.org/records/10086810 |journal=Zenodo|doi=10.5281/zenodo.10086810 }}&lt;/ref&gt;
+
+&lt;ref name=&quot;Mohanty2014&quot;&gt;{{cite arXiv|eprint=1405.0511|last1=Mohanty|first1=Subhanjoy|title=WISEP J061135.13-041024.0AB: A J-Band Flux Reversal Binary at the L/T Transition|last2=Jayawardhana|first2=Ray|last3=Huelamo|first3=Nuria|last4=Mamajek|first4=Eric|last5=Cushing|first5=Michael C.|last6=Mace|first6=Gregory|last7=Mendez|first7=Rene A.|last8=Tinney|first8=C. G.|last9=Jones|first9=Hugh R. A.|class=astro-ph.SR|year=2014}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Deacon2014&quot;&gt;{{Cite journal |last1=Deacon |first1=Niall R. |last2=Liu |first2=Michael C. |last3=Magnier |first3=Eugene A. |last4=Aller |first4=Kimberly M. |last5=Best |first5=William M. J. |last6=Dupuy |first6=Trent |last7=Bowler |first7=Brendan P. |last8=Mann |first8=Andrew W. |last9=Redstone |first9=Joshua A. |last10=Burgett |first10=William S. |last11=Chambers |first11=Kenneth C. |last12=Draper |first12=Peter W. |last13=Flewelling |first13=H. |last14=Hodapp |first14=Klaus W. |last15=Kaiser |first15=Nick |date=2014-09-01 |title=Wide Cool and Ultracool Companions to Nearby Stars from Pan-STARRS 1 |url=https://ui.adsabs.harvard.edu/abs/2014ApJ...792..119D |journal=The Astrophysical Journal |volume=792 |issue=2 |pages=119 |arxiv=1407.2938 |bibcode=2014ApJ...792..119D |doi=10.1088/0004-637X/792/2/119 |issn=0004-637X}}&lt;/ref&gt;
+
+&lt;ref name=&quot;French2023&quot;&gt;{{Cite journal |last1=French |first1=Jenni R. |last2=Casewell |first2=Sarah L. |last3=Dupuy |first3=Trent J. |last4=Debes |first4=John H. |last5=Manjavacas |first5=Elena |last6=Martin |first6=Emily C. |last7=Xu |first7=Siyi |date=2023-03-01 |title=Discovery of a resolved white dwarf-brown dwarf binary with a small projected separation: SDSS J222551.65+001637.7AB |journal=Monthly Notices of the Royal Astronomical Society |volume=519 |issue=4 |pages=5008–5016 |arxiv=2301.02101 |bibcode=2023MNRAS.519.5008F |doi=10.1093/mnras/stac3807 |doi-access=free |issn=0035-8711}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Marocco2024&quot;&gt;{{Cite journal |last1=Marocco |first1=Federico |last2=Kirkpatrick |first2=J. Davy |last3=Schneider |first3=Adam C. |last4=Meisner |first4=Aaron M. |last5=Popinchalk |first5=Mark |last6=Gelino |first6=Christopher R. |last7=Faherty |first7=Jacqueline K. |last8=Burgasser |first8=Adam J. |last9=Caselden |first9=Dan |last10=Gagné |first10=Jonathan |last11=Aganze |first11=Christian |last12=Bardalez Gagliuffi |first12=Daniella C. |last13=Casewell |first13=Sarah L. |last14=Hsu |first14=Chih-Chun |last15=Kiman |first15=Rocio |date=2024-06-01 |title=Thirteen New M Dwarf + T Dwarf Pairs Identified with WISE/NEOWISE |journal=The Astrophysical Journal |volume=967 |issue=2 |pages=147 |arxiv=2404.14324 |bibcode=2024ApJ...967..147M |doi=10.3847/1538-4357/ad3f1d |doi-access=free |issn=0004-637X}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Meisner2020&quot;&gt;{{Cite journal |last1=Meisner |first1=Aaron M. |last2=Faherty |first2=Jacqueline K. |last3=Kirkpatrick |first3=J. Davy |last4=Schneider |first4=Adam C. |last5=Caselden |first5=Dan |last6=Gagné |first6=Jonathan |last7=Kuchner |first7=Marc J. |last8=Burgasser |first8=Adam J. |last9=Casewell |first9=Sarah L. |last10=Debes |first10=John H. |last11=Artigau |first11=Étienne |last12=Bardalez Gagliuffi |first12=Daniella C. |last13=Logsdon |first13=Sarah E. |last14=Kiman |first14=Rocio |last15=Allers |first15=Katelyn |date=2020-08-01 |title=Spitzer Follow-up of Extremely Cold Brown Dwarfs Discovered by the Backyard Worlds: Planet 9 Citizen Science Project |journal=The Astrophysical Journal |volume=899 |issue=2 |pages=123 |arxiv=2008.06396 |bibcode=2020ApJ...899..123M |doi=10.3847/1538-4357/aba633 |doi-access=free |issn=0004-637X}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Zhang2020&quot;&gt;{{Cite journal |last1=Zhang |first1=Zhoujian |last2=Liu |first2=Michael C. |last3=Hermes |first3=J. J. |last4=Magnier |first4=Eugene A. |last5=Marley |first5=Mark S. |last6=Tremblay |first6=Pier-Emmanuel |last7=Tucker |first7=Michael A. |last8=Do |first8=Aaron |last9=Payne |first9=Anna V. |last10=Shappee |first10=Benjamin J. |date=2020-03-01 |title=COol Companions ON Ultrawide orbiTS (COCONUTS). I. A High-gravity T4 Benchmark around an Old White Dwarf and a Re-examination of the Surface-gravity Dependence of the L/T Transition |journal=The Astrophysical Journal |volume=891 |issue=2 |pages=171 |arxiv=2002.05723 |bibcode=2020ApJ...891..171Z |doi=10.3847/1538-4357/ab765c |doi-access=free |issn=0004-637X}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Cifuentes2021&quot;&gt;{{Cite journal |last1=Cifuentes |first1=Carlos |last2=Caballero |first2=José A. |last3=Agustí |first3=Sergio |date=2021-06-01 |title=One Is the Loneliest Number: Multiplicity in Cool Dwarfs |journal=Research Notes of the American Astronomical Society |volume=5 |issue=5 |pages=129 |arxiv=2106.05049 |doi=10.3847/2515-5172/ac05ce |doi-access=free |bibcode=2021RNAAS...5..129C |issn=2515-5172}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Deacon2012&quot;&gt;{{Cite journal |last1=Deacon |first1=Niall R. |last2=Liu |first2=Michael C. |last3=Magnier |first3=Eugene A. |last4=Bowler |first4=Brendan P. |last5=Redstone |first5=Joshua |last6=Goldman |first6=Bertrand |last7=Burgett |first7=W. S. |last8=Chambers |first8=K. C. |last9=Flewelling |first9=H. |last10=Kaiser |first10=N. |last11=Morgan |first11=J. S. |last12=Price |first12=P. A. |last13=Sweeney |first13=W. E. |last14=Tonry |first14=J. L. |last15=Wainscoat |first15=R. J. |date=2012-08-01 |title=HIP 38939B: A New Benchmark T Dwarf in the Galactic Plane Discovered with Pan-STARRS1 |url=https://ui.adsabs.harvard.edu/abs/2012ApJ...755...94D |journal=The Astrophysical Journal |volume=755 |issue=2 |pages=94 |doi=10.1088/0004-637X/755/2/94 |arxiv=1109.6319 |bibcode=2012ApJ...755...94D |issn=0004-637X}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Burgasser2005&quot;&gt;{{Cite journal |last1=Burgasser |first1=Adam J. |last2=Kirkpatrick |first2=J. Davy |last3=Lowrance |first3=Patrick J. |date=2005-06-01 |title=Multiplicity among Widely Separated Brown Dwarf Companions to Nearby Stars: Gliese 337CD |url=https://ui.adsabs.harvard.edu/abs/2005AJ....129.2849B |journal=The Astronomical Journal |volume=129 |issue=6 |pages=2849–2855 |arxiv=astro-ph/0503379 |bibcode=2005AJ....129.2849B |doi=10.1086/430218 |issn=0004-6256}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Deacon2012a&quot;&gt;{{Cite journal |last1=Deacon |first1=Niall R. |last2=Liu |first2=Michael C. |last3=Magnier |first3=Eugene A. |last4=Bowler |first4=Brendan P. |last5=Mann |first5=Andrew W. |last6=Redstone |first6=Joshua A. |last7=Burgett |first7=William S. |last8=Chambers |first8=Ken C. |last9=Hodapp |first9=Klaus W. |last10=Kaiser |first10=Nick |last11=Kudritzki |first11=Rolf-Peter |last12=Morgan |first12=Jeff S. |last13=Price |first13=Paul A. |last14=Tonry |first14=John L. |last15=Wainscoat |first15=Richard J. |date=2012-09-01 |title=LHS 2803B: A Very Wide Mid-T Dwarf Companion to an Old M Dwarf Identified from Pan-STARRS1 |url=https://ui.adsabs.harvard.edu/abs/2012ApJ...757..100D |journal=The Astrophysical Journal |volume=757 |issue=1 |pages=100 |arxiv=1208.0368 |bibcode=2012ApJ...757..100D |doi=10.1088/0004-637X/757/1/100 |issn=0004-637X}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Pinfield2012&quot;&gt;{{Cite journal |last1=Pinfield |first1=D. J. |last2=Burningham |first2=B. |last3=Lodieu |first3=N. |last4=Leggett |first4=S. K. |last5=Tinney |first5=C. G. |last6=van Spaandonk |first6=L. |last7=Marocco |first7=F. |last8=Smart |first8=R. |last9=Gomes |first9=J. |last10=Smith |first10=L. |last11=Lucas |first11=P. W. |last12=Day-Jones |first12=A. C. |last13=Murray |first13=D. N. |last14=Katsiyannis |first14=A. C. |last15=Catalan |first15=S. |date=2012-05-01 |title=Discovery of the benchmark metal-poor T8 dwarf BD +01° 2920B |journal=Monthly Notices of the Royal Astronomical Society |volume=422 |issue=3 |pages=1922–1932 |arxiv=1201.3243 |bibcode=2012MNRAS.422.1922P |doi=10.1111/j.1365-2966.2012.20549.x |doi-access=free |issn=0035-8711}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Rothermich2024&quot;&gt;{{Cite journal |last1=Rothermich |first1=Austin |last2=Faherty |first2=Jacqueline K. |last3=Bardalez-Gagliuffi |first3=Daniella |last4=Schneider |first4=Adam C. |last5=Kirkpatrick |first5=J. Davy |last6=Meisner |first6=Aaron M. |last7=Burgasser |first7=Adam J. |last8=Kuchner |first8=Marc |last9=Allers |first9=Katelyn |last10=Gagné |first10=Jonathan |last11=Caselden |first11=Dan |last12=Calamari |first12=Emily |last13=Popinchalk |first13=Mark |last14=Suárez |first14=Genaro |last15=Gerasimov |first15=Roman |date=2024-06-01 |title=89 New Ultracool Dwarf Comoving Companions Identified with the Backyard Worlds: Planet 9 Citizen Science Project |journal=The Astronomical Journal |volume=167 |issue=6 |pages=253 |arxiv=2403.04592 |bibcode=2024AJ....167..253R |doi=10.3847/1538-3881/ad324e |doi-access=free |issn=0004-6256}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Farihi2004&quot;&gt;{{Cite journal |last1=Farihi |first1=J. |last2=Christopher |first2=M. |date=2004-10-01 |title=A Possible Brown Dwarf Companion to the White Dwarf GD 1400 |url=https://ui.adsabs.harvard.edu/abs/2004AJ....128.1868F/abstract |journal=The Astronomical Journal |volume=128 |issue=4 |pages=1868–1871 |arxiv=astro-ph/0407036 |bibcode=2004AJ....128.1868F |doi=10.1086/423919 |issn=0004-6256}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Walters2023&quot;&gt;{{Cite journal |last1=Walters |first1=N. |last2=Farihi |first2=J. |last3=Marsh |first3=T. R. |last4=Breedt |first4=E. |last5=Cauley |first5=P. W. |last6=von Hippel |first6=T. |last7=Hermes |first7=J. J. |date=2023-02-01 |title=Two substellar survivor candidates: one found and one missing |journal=Monthly Notices of the Royal Astronomical Society |volume=519 |issue=1 |pages=1381–1395 |arxiv=2207.07022 |bibcode=2023MNRAS.519.1381W |doi=10.1093/mnras/stac3603 |doi-access=free |issn=0035-8711}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Day-Jones2011&quot;&gt;{{Cite journal |last1=Day-Jones |first1=A. C. |last2=Pinfield |first2=D. J. |last3=Ruiz |first3=M. T. |last4=Beaumont |first4=H. |last5=Burningham |first5=B. |last6=Gallardo |first6=J. |last7=Gianninas |first7=A. |last8=Bergeron |first8=P. |last9=Napiwotzki |first9=R. |last10=Jenkins |first10=J. S. |last11=Zhang |first11=Z. H. |last12=Murray |first12=D. N. |last13=Catalán |first13=S. |last14=Gomes |first14=J. |date=2011-01-01 |title=Discovery of a T dwarf + white dwarf binary system |journal=Monthly Notices of the Royal Astronomical Society |volume=410 |issue=2 |pages=705–716 |arxiv=1008.2960 |bibcode=2011MNRAS.410..705D |doi=10.1111/j.1365-2966.2010.17469.x |doi-access=free |issn=0035-8711}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Steele2013&quot;&gt;{{Cite journal |last1=Steele |first1=P. R. |last2=Saglia |first2=R. P. |last3=Burleigh |first3=M. R. |last4=Marsh |first4=T. R. |last5=Gänsicke |first5=B. T. |last6=Lawrie |first6=K. |last7=Cappetta |first7=M. |last8=Girven |first8=J. |last9=Napiwotzki |first9=R. |date=2013-03-01 |title=NLTT 5306: the shortest period detached white dwarf+brown dwarf binary |journal=Monthly Notices of the Royal Astronomical Society |volume=429 |issue=4 |pages=3492–3500 |arxiv=1212.2899 |bibcode=2013MNRAS.429.3492S |doi=10.1093/mnras/sts620 |doi-access=free |issn=0035-8711}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Amaro2023&quot;&gt;{{Cite journal |last1=Amaro |first1=Rachael C. |last2=Apai |first2=Dániel |last3=Zhou |first3=Yifan |last4=Lew |first4=Ben W. P. |last5=Casewell |first5=Sarah L. |last6=Mayorga |first6=L. C. |last7=Marley |first7=Mark S. |last8=Tan |first8=Xianyu |last9=Lothringer |first9=Joshua D. |last10=Parmentier |first10=Vivien |last11=Barman |first11=Travis |date=2023-05-01 |title=Hotter than Expected: Hubble Space Telescope (HST)/WFC3 Phase-resolved Spectroscopy of a Rare Irradiated Brown Dwarf with Strong Internal Heat Flux |journal=The Astrophysical Journal |volume=948 |issue=2 |pages=129 |arxiv=2303.07420 |bibcode=2023ApJ...948..129A |doi=10.3847/1538-4357/acbfb3 |doi-access=free |issn=0004-637X}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Beuermann2013&quot;&gt;{{Cite journal |last1=Beuermann |first1=K. |last2=Dreizler |first2=S. |last3=Hessman |first3=F. V. |last4=Backhaus |first4=U. |last5=Boesch |first5=A. |last6=Husser |first6=T. -O. |last7=Nortmann |first7=L. |last8=Schmelev |first8=A. |last9=Springer |first9=R. |date=2013-10-01 |title=The eclipsing post-common envelope binary CSS21055: a white dwarf with a probable brown-dwarf companion |url=https://ui.adsabs.harvard.edu/abs/2013A&amp;A...558A..96B/abstract |journal=Astronomy and Astrophysics |volume=558 |pages=A96 |arxiv=1312.5088 |bibcode=2013A&amp;A...558A..96B |doi=10.1051/0004-6361/201322241 |issn=0004-6361}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Littlefair&quot;&gt;{{Cite journal |last1=Littlefair |first1=S. P. |last2=Casewell |first2=S. L. |last3=Parsons |first3=S. G. |last4=Dhillon |first4=V. S. |last5=Marsh |first5=T. R. |last6=Gänsicke |first6=B. T. |last7=Bloemen |first7=S. |last8=Catalan |first8=S. |last9=Irawati |first9=P. |last10=Hardy |first10=L. K. |last11=Mcallister |first11=M. |last12=Bours |first12=M. C. P. |last13=Richichi |first13=Andrea |last14=Burleigh |first14=M. R. |last15=Burningham |first15=B. |date=2014-12-01 |title=The substellar companion in the eclipsing white dwarf binary SDSS J141126.20+200911.1 |journal=Monthly Notices of the Royal Astronomical Society |volume=445 |issue=2 |pages=2106–2115 |arxiv=1409.3125 |bibcode=2014MNRAS.445.2106L |doi=10.1093/mnras/stu1895 |doi-access=free |issn=0035-8711}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Parsons2017&quot;&gt;{{Cite journal |last1=Parsons |first1=S. G. |last2=Hermes |first2=J. J. |last3=Marsh |first3=T. R. |last4=Gänsicke |first4=B. T. |last5=Tremblay |first5=P. -E. |last6=Littlefair |first6=S. P. |last7=Sahman |first7=D. I. |last8=Ashley |first8=R. P. |last9=Green |first9=M. |last10=Rattanasoon |first10=S. |last11=Dhillon |first11=V. S. |last12=Burleigh |first12=M. R. |last13=Casewell |first13=S. L. |last14=Buckley |first14=D. A. H. |last15=Braker |first15=I. P. |date=2017-10-01 |title=Two white dwarfs in ultrashort binaries with detached, eclipsing, likely sub-stellar companions detected by K2 |journal=Monthly Notices of the Royal Astronomical Society |volume=471 |issue=1 |pages=976–986 |arxiv=1705.05856 |bibcode=2017MNRAS.471..976P |doi=10.1093/mnras/stx1610 |doi-access=free |issn=0035-8711}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Casewell2018&quot;&gt;{{Cite journal |last1=Casewell |first1=S. L. |last2=Braker |first2=I. P. |last3=Parsons |first3=S. G. |last4=Hermes |first4=J. J. |last5=Burleigh |first5=M. R. |last6=Belardi |first6=C. |last7=Chaushev |first7=A. |last8=Finch |first8=N. L. |last9=Roy |first9=M. |last10=Littlefair |first10=S. P. |last11=Goad |first11=M. |last12=Dennihy |first12=E. |date=2018-05-01 |title=The first sub-70 min non-interacting WD-BD system: EPIC212235321 |journal=Monthly Notices of the Royal Astronomical Society |volume=476 |issue=1 |pages=1405–1411 |arxiv=1801.07773 |bibcode=2018MNRAS.476.1405C |doi=10.1093/mnras/sty245 |doi-access=free |issn=0035-8711}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Casewell2020&quot;&gt;{{Cite journal |last1=Casewell |first1=S. L. |last2=Belardi |first2=C. |last3=Parsons |first3=S. G. |last4=Littlefair |first4=S. P. |last5=Braker |first5=I. P. |last6=Hermes |first6=J. J. |last7=Debes |first7=J. |last8=Vanderbosch |first8=Z. |last9=Burleigh |first9=M. R. |last10=Gänsicke |first10=B. T. |last11=Dhillon |first11=V. S. |last12=Marsh |first12=T. R. |last13=Winget |first13=D. E. |last14=Winget |first14=K. I. |date=2020-09-01 |title=WD1032 + 011, an inflated brown dwarf in an old eclipsing binary with a white dwarf |journal=Monthly Notices of the Royal Astronomical Society |volume=497 |issue=3 |pages=3571–3580 |arxiv=2006.09417 |bibcode=2020MNRAS.497.3571C |doi=10.1093/mnras/staa1608 |doi-access=free |issn=0035-8711}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Roestel2021&quot;&gt;{{Cite journal |last1=van Roestel |first1=Jan |last2=Kupfer |first2=Thomas |last3=Bell |first3=Keaton J. |last4=Burdge |first4=Kevin |last5=Mróz |first5=Przemek |last6=Prince |first6=Thomas A. |last7=Bellm |first7=Eric C. |last8=Drake |first8=Andrew |last9=Dekany |first9=Richard |last10=Mahabal |first10=Ashish A. |last11=Porter |first11=Michael |last12=Riddle |first12=Reed |last13=Shin |first13=Kyung Min |last14=Shupe |first14=David L. |last15=Kulkarni |first15=S. R. |date=2021-10-01 |title=ZTFJ0038+2030: A Long-period Eclipsing White Dwarf and a Substellar Companion |journal=The Astrophysical Journal |volume=919 |issue=2 |pages=L26 |arxiv=2105.08687 |bibcode=2021ApJ...919L..26V |doi=10.3847/2041-8213/ac22b7 |doi-access=free |issn=0004-637X}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Rebassa-Mansergas2022&quot;&gt;{{Cite journal |last1=Rebassa-Mansergas |first1=Alberto |last2=Xu |first2=Siyi |last3=Raddi |first3=Roberto |last4=Pala |first4=Anna F. |last5=Solano |first5=Enrique |last6=Torres |first6=Santiago |last7=Jiménez-Esteban |first7=Francisco |last8=Cruz |first8=Patricia |date=2022-03-01 |title=Gaia 0007-1605: An Old Triple System with an Inner Brown Dwarf-White Dwarf Binary and an Outer White Dwarf Companion |journal=The Astrophysical Journal |volume=927 |issue=2 |pages=L31 |arxiv=2203.05901 |bibcode=2022ApJ...927L..31R |doi=10.3847/2041-8213/ac5a55 |doi-access=free |issn=0004-637X}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Kiwy2022&quot;&gt;{{Cite journal |last1=Kiwy |first1=Frank |last2=Faherty |first2=Jacqueline K. |last3=Meisner |first3=Aaron |last4=Schneider |first4=Adam C. |last5=Kirkpatrick |first5=J. Davy |last6=Kuchner |first6=Marc J. |last7=Burgasser |first7=Adam J. |last8=Casewell |first8=Sarah |last9=Kiman |first9=Rocio |last10=Calamari |first10=Emily |last11=Aganze |first11=Christian |last12=Hsu |first12=Chih-Chun |last13=Sainio |first13=Arttu |last14=Thakur |first14=Vinod |last15=Backyard Worlds: Planet 9 Collaboration |date=2022-07-01 |title=Discovery of 34 Low-mass Comoving Systems Using NOIRLab Source Catalog DR2 |journal=The Astronomical Journal |volume=164 |issue=1 |pages=3 |arxiv=2204.09739 |bibcode=2022AJ....164....3K |doi=10.3847/1538-3881/ac68e7 |doi-access=free |issn=0004-6256}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Swihart2022&quot;&gt;{{Cite journal |last1=Swihart |first1=Samuel J. |last2=Strader |first2=Jay |last3=Chomiuk |first3=Laura |last4=Aydi |first4=Elias |last5=Sokolovsky |first5=Kirill V. |last6=Ray |first6=Paul S. |last7=Kerr |first7=Matthew |date=2022-12-01 |title=A New Flaring Black Widow Candidate and Demographics of Black Widow Millisecond Pulsars in the Galactic Field |journal=The Astrophysical Journal |volume=941 |issue=2 |pages=199 |arxiv=2210.16295 |bibcode=2022ApJ...941..199S |doi=10.3847/1538-4357/aca2ac |issn=0004-637X |s2cid=253224234 |doi-access=free}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Neustroev2023&quot;&gt;{{Cite journal |last1=Neustroev |first1=Vitaly V. |last2=Mäntynen |first2=Iikka |date=2023-08-01 |title=A brown dwarf donor and an optically thin accretion disc with a complex stream impact region in the period-bouncer candidate BW Sculptoris |journal=Monthly Notices of the Royal Astronomical Society |volume=523 |issue=4 |pages=6114–6137 |arxiv=2212.03264 |bibcode=2023MNRAS.523.6114N |doi=10.1093/mnras/stad1730 |issn=0035-8711 |doi-access=free}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Hernández Santisteban2016&quot;&gt;{{cite journal |last1=Hernández Santisteban |first1=Juan V. |last2=Knigge |first2=Christian |last3=Littlefair |first3=Stuart P. |last4=Breton |first4=Rene P. |last5=Dhillon |first5=Vikram S. |last6=Gänsicke |first6=Boris T. |last7=Marsh |first7=Thomas R. |last8=Pretorius |first8=Magaretha L. |last9=Southworth |first9=John |last10=Hauschildt |first10=Peter H. |year=2016 |title=An irradiated brown-dwarf companion to an accreting white dwarf |journal=Nature |volume=533 |issue=7603 |pages=366–368 |arxiv=1605.07132 |bibcode=2016Natur.533..366H |doi=10.1038/nature17952 |pmid=27193683 |s2cid=4448224}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Littlefair2006&quot;&gt;{{Cite journal |last1=Littlefair |first1=S. P. |last2=Dhillon |first2=V. S. |last3=Marsh |first3=T. R. |last4=Gänsicke |first4=Boris T. |last5=Southworth |first5=John |last6=Watson |first6=C. A. |date=2006-12-01 |title=A Brown Dwarf Mass Donor in an Accreting Binary |url=https://ui.adsabs.harvard.edu/abs/2006Sci...314.1578L/abstract |journal=Science |volume=314 |issue=5805 |pages=1578–1580 |arxiv=astro-ph/0612220 |bibcode=2006Sci...314.1578L |doi=10.1126/science.1133333 |pmid=17158322 |issn=0036-8075}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Littlefair2007&quot;&gt;{{Cite journal |last1=Littlefair |first1=S. P. |last2=Dhillon |first2=V. S. |last3=Marsh |first3=T. R. |last4=Gänsicke |first4=B. T. |last5=Baraffe |first5=I. |last6=Watson |first6=C. A. |date=2007-10-01 |title=SDSS J150722.30+523039.8: a cataclysmic variable formed directly from a detached white dwarf/brown dwarf binary? |journal=Monthly Notices of the Royal Astronomical Society |volume=381 |issue=2 |pages=827–834 |arxiv=0708.0097 |bibcode=2007MNRAS.381..827L |doi=10.1111/j.1365-2966.2007.12285.x |doi-access=free |issn=0035-8711}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Littlefair2008&quot;&gt;{{Cite journal |last1=Littlefair |first1=S. P. |last2=Dhillon |first2=V. S. |last3=Marsh |first3=T. R. |last4=Gänsicke |first4=B. T. |last5=Southworth |first5=John |last6=Baraffe |first6=I. |last7=Watson |first7=C. A. |last8=Copperwheat |first8=C. |date=2008-08-01 |title=On the evolutionary status of short-period cataclysmic variables |journal=Monthly Notices of the Royal Astronomical Society |volume=388 |issue=4 |pages=1582–1594 |arxiv=0806.1129 |bibcode=2008MNRAS.388.1582L |doi=10.1111/j.1365-2966.2008.13539.x |doi-access=free |issn=0035-8711}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Schaffenroth2021&quot;&gt;{{Cite journal |last1=Schaffenroth |first1=V. |last2=Casewell |first2=S. L. |last3=Schneider |first3=D. |last4=Kilkenny |first4=D. |last5=Geier |first5=S. |last6=Heber |first6=U. |last7=Irrgang |first7=A. |last8=Przybilla |first8=N. |last9=Marsh |first9=T. R. |last10=Littlefair |first10=S. P. |last11=Dhillon |first11=V. S. |date=2021-03-01 |title=A quantitative in-depth analysis of the prototype sdB+BD system SDSS J08205+0008 revisited in the Gaia era |journal=Monthly Notices of the Royal Astronomical Society |volume=501 |issue=3 |pages=3847–3870 |arxiv=2011.10013 |bibcode=2021MNRAS.501.3847S |doi=10.1093/mnras/staa3661 |doi-access=free |issn=0035-8711}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Casewell2021&quot;&gt;{{Cite journal |last1=Casewell |first1=S. L. |last2=Burleigh |first2=M. R. |last3=Wynn |first3=G. A. |last4=Alexander |first4=R. D. |last5=Napiwotzki |first5=R. |last6=Lawrie |first6=K. A. |last7=Dobbie |first7=P. D. |last8=Jameson |first8=R. F. |last9=Hodgkin |first9=S. T. |date=2012-11-01 |title=WD0837+185: The Formation and Evolution of an Extreme Mass-ratio White-dwarf-Brown-dwarf Binary in Praesepe |url=https://ui.adsabs.harvard.edu/abs/2012ApJ...759L..34C/abstract |journal=The Astrophysical Journal |volume=759 |issue=2 |pages=L34 |arxiv=1210.0446 |bibcode=2012ApJ...759L..34C |doi=10.1088/2041-8205/759/2/L34 |issn=0004-637X}}&lt;/ref&gt;
+
+&lt;ref name=&quot;McAllister2015&quot;&gt;{{Cite journal |last1=McAllister |first1=M. J. |last2=Littlefair |first2=S. P. |last3=Baraffe |first3=I. |last4=Dhillon |first4=V. S. |last5=Marsh |first5=T. R. |last6=Bento |first6=J. |last7=Bochinski |first7=J. |last8=Bours |first8=M. C. P. |last9=Breedt |first9=E. |last10=Copperwheat |first10=C. M. |last11=Hardy |first11=L. K. |last12=Kerry |first12=P. |last13=Parsons |first13=S. G. |last14=Rostron |first14=J. W. |last15=Sahman |first15=D. I. |date=2015-07-01 |title=PHL 1445: an eclipsing cataclysmic variable with a substellar donor near the period minimum |journal=Monthly Notices of the Royal Astronomical Society |volume=451 |issue=1 |pages=114–125 |arxiv=1504.07899 |bibcode=2015MNRAS.451..114M |doi=10.1093/mnras/stv956 |doi-access=free |issn=0035-8711}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Schaffenroth2015&quot;&gt;{{Cite journal |last1=Schaffenroth |first1=V. |last2=Barlow |first2=B. N. |last3=Drechsel |first3=H. |last4=Dunlap |first4=B. H. |date=2015-04-01 |title=An eclipsing post common-envelope system consisting of a pulsating hot subdwarf B star and a brown dwarf companion |url=https://ui.adsabs.harvard.edu/abs/2015A&amp;A...576A.123S/abstract |journal=Astronomy and Astrophysics |volume=576 |pages=A123 |arxiv=1502.04459 |bibcode=2015A&amp;A...576A.123S |doi=10.1051/0004-6361/201525701 |issn=0004-6361}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Almeida2017&quot;&gt;{{Cite journal |last1=Almeida |first1=L. A. |last2=Damineli |first2=A. |last3=Rodrigues |first3=C. V. |last4=Pereira |first4=M. G. |last5=Jablonski |first5=F. |date=2017-12-01 |title=HS 2231+2441: an HW Vir system composed of a low-mass white dwarf and a brown dwarf★ |journal=Monthly Notices of the Royal Astronomical Society |volume=472 |issue=3 |pages=3093–3100 |arxiv=1708.04623 |bibcode=2017MNRAS.472.3093A |doi=10.1093/mnras/stx2150 |doi-access=free |issn=0035-8711}}&lt;/ref&gt;
+
+&lt;ref name=&quot;McAllister2017&quot;&gt;{{Cite journal |last1=McAllister |first1=M. J. |last2=Littlefair |first2=S. P. |last3=Dhillon |first3=V. S. |last4=Marsh |first4=T. R. |last5=Gänsicke |first5=B. T. |last6=Bochinski |first6=J. |last7=Bours |first7=M. C. P. |last8=Breedt |first8=E. |last9=Hardy |first9=L. K. |last10=Hermes |first10=J. J. |last11=Kengkriangkrai |first11=S. |last12=Kerry |first12=P. |last13=Parsons |first13=S. G. |last14=Rattanasoon |first14=S. |date=2017-05-01 |title=SDSS J105754.25+275947.5: a period-bounce eclipsing cataclysmic variable with the lowest-mass donor yet measured |journal=Monthly Notices of the Royal Astronomical Society |volume=467 |issue=1 |pages=1024–1032 |arxiv=1701.07892 |bibcode=2017MNRAS.467.1024M |doi=10.1093/mnras/stx253 |doi-access=free |issn=0035-8711}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Pala2018&quot;&gt;{{Cite journal |last1=Pala |first1=A. F. |last2=Schmidtobreick |first2=L. |last3=Tappert |first3=C. |last4=Gänsicke |first4=B. T. |last5=Mehner |first5=A. |date=2018-12-01 |title=The cataclysmic variable QZ Lib: a period bouncer |journal=Monthly Notices of the Royal Astronomical Society |volume=481 |issue=2 |pages=2523–2535 |arxiv=1809.02135 |bibcode=2018MNRAS.481.2523P |doi=10.1093/mnras/sty2434 |doi-access=free |issn=0035-8711}}&lt;/ref&gt;
+}}
+
+== External links ==
+
+* {{cite web|url=http://www.clannad.net/starlisttour.asp?starcatid=browndwarf&amp;order=mass&amp;ShowUncertain=0 |title=Extrasolar Visions: Brown dwarfs |access-date=2007-07-25 |archive-url=https://web.archive.org/web/20070928075638/http://www.clannad.net/starlisttour.asp?starcatid=browndwarf&amp;order=mass&amp;ShowUncertain=0 |archive-date=2007-09-28 |url-status=dead }}
+* {{cite web|url=http://vo.obspm.fr/exoplanetes/encyclo/catalog-all.php?&amp;mode=2&amp;more=yes |title=Interactive Extrasolar-Planets Catalogue |access-date=2007-07-25 |url-status=dead |archive-url=https://web.archive.org/web/20061127091326/http://vo.obspm.fr/exoplanetes/encyclo/catalog-all.php?&amp;mode=2&amp;more=yes |archive-date=November 27, 2006 }}
+
+{{Star}}
+{{Portal bar|Astronomy|Spaceflight|Outer space|Solar System}}
+{{DEFAULTSORT:List of brown dwarfs}}
+[[Category:Brown dwarfs|*]]
+[[Category:Lists of stars|brown dwarfs, list of]]
+[[Category:Binary stars]]
+[[Category:Planetary systems|*List]]</text>
+      <sha1>g5opearr0qz3ipd34ip5as68gc936wb</sha1>
+    </revision>
+  </page>
+

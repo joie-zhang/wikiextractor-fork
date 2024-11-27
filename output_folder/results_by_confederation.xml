@@ -1,0 +1,38 @@
+<page>
+    <title>List of FIFA World Cup finals</title>
+    <ns>0</ns>
+    <id>8821389</id>
+    <revision>
+        <parentid>1245828466</parentid>
+        <timestamp>2024-09-22T19:04:42Z</timestamp>
+        <contributor>
+            <username>Theurgist</username>
+        </contributor>
+        <minor />
+        <comment>/* top */</comment>
+        <origin>1247087086</origin>
+        <model>wikitext</model>
+        <format>text/x-wiki</format>
+        <text bytes="41494" sha1="6wginmst2y24g9h16g80idj9vjawo7z" xml:space="preserve">{{Short description|None}}
+      {|class=&quot;wikitable plainrowheaders sortable&quot; style=&quot;text-align:center&quot;
+|+ Results by confederation
+!scope=&quot;col&quot;| Confederation
+!scope=&quot;col&quot;| Appearances
+!scope=&quot;col&quot;| Winners
+!scope=&quot;col&quot;| Runners-up
+|-
+! scope=&quot;row&quot;| [[UEFA]]
+| 29
+| 12
+| 17
+|-
+!scope=&quot;row&quot;| [[CONMEBOL]]
+| 15
+| 10
+| 5
+|}
+
+</text>
+        <sha1>6wginmst2y24g9h16g80idj9vjawo7z</sha1>
+    </revision>
+</page>
